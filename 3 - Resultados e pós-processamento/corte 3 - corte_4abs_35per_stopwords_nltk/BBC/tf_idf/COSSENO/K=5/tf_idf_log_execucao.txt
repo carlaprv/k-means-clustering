@@ -1,0 +1,92 @@
+grupo 0 - filhos: 761
+grupo 1 - filhos: 275
+grupo 2 - filhos: 649
+grupo 3 - filhos: 324
+grupo 4 - filhos: 216
+
+grupo 0 - filhos: 888
+grupo 1 - filhos: 281
+grupo 2 - filhos: 506
+grupo 3 - filhos: 335
+grupo 4 - filhos: 215
+
+grupo 0 - filhos: 973
+grupo 1 - filhos: 273
+grupo 2 - filhos: 363
+grupo 3 - filhos: 359
+grupo 4 - filhos: 257
+
+grupo 0 - filhos: 981
+grupo 1 - filhos: 270
+grupo 2 - filhos: 255
+grupo 3 - filhos: 412
+grupo 4 - filhos: 307
+
+grupo 0 - filhos: 945
+grupo 1 - filhos: 308
+grupo 2 - filhos: 234
+grupo 3 - filhos: 408
+grupo 4 - filhos: 330
+
+grupo 0 - filhos: 861
+grupo 1 - filhos: 339
+grupo 2 - filhos: 222
+grupo 3 - filhos: 410
+grupo 4 - filhos: 393
+
+grupo 0 - filhos: 737
+grupo 1 - filhos: 358
+grupo 2 - filhos: 229
+grupo 3 - filhos: 405
+grupo 4 - filhos: 496
+
+grupo 0 - filhos: 606
+grupo 1 - filhos: 362
+grupo 2 - filhos: 248
+grupo 3 - filhos: 391
+grupo 4 - filhos: 618
+
+grupo 0 - filhos: 571
+grupo 1 - filhos: 363
+grupo 2 - filhos: 286
+grupo 3 - filhos: 380
+grupo 4 - filhos: 625
+
+grupo 0 - filhos: 565
+grupo 1 - filhos: 363
+grupo 2 - filhos: 329
+grupo 3 - filhos: 376
+grupo 4 - filhos: 592
+
+grupo 0 - filhos: 566
+grupo 1 - filhos: 363
+grupo 2 - filhos: 351
+grupo 3 - filhos: 376
+grupo 4 - filhos: 569
+
+grupo 0 - filhos: 566
+grupo 1 - filhos: 363
+grupo 2 - filhos: 358
+grupo 3 - filhos: 376
+grupo 4 - filhos: 562
+
+grupo 0 - filhos: 566
+grupo 1 - filhos: 363
+grupo 2 - filhos: 358
+grupo 3 - filhos: 376
+grupo 4 - filhos: 562
+
+grupo 0 - filhos: 566
+grupo 1 - filhos: 363
+grupo 2 - filhos: 358
+grupo 3 - filhos: 376
+grupo 4 - filhos: 562
+
+grupo 0 - filhos: 566
+grupo 1 - filhos: 363
+grupo 2 - filhos: 358
+grupo 3 - filhos: 376
+grupo 4 - filhos: 562
+
+sil_means:0.04291061641976186
+erro_quad_medio 0.5225418371615103

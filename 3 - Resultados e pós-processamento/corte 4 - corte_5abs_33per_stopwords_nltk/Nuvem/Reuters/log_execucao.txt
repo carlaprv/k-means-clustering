@@ -1,0 +1,334 @@
+grupo 0 - filhos: 405
+grupo 1 - filhos: 572
+grupo 2 - filhos: 462
+grupo 3 - filhos: 884
+grupo 4 - filhos: 880
+grupo 5 - filhos: 722
+grupo 6 - filhos: 1527
+grupo 7 - filhos: 547
+grupo 8 - filhos: 1404
+grupo 9 - filhos: 987
+
+grupo 0 - filhos: 904
+grupo 1 - filhos: 1060
+grupo 2 - filhos: 850
+grupo 3 - filhos: 434
+grupo 4 - filhos: 544
+grupo 5 - filhos: 1164
+grupo 6 - filhos: 1012
+grupo 7 - filhos: 684
+grupo 8 - filhos: 654
+grupo 9 - filhos: 1084
+
+grupo 0 - filhos: 940
+grupo 1 - filhos: 1479
+grupo 2 - filhos: 909
+grupo 3 - filhos: 593
+grupo 4 - filhos: 476
+grupo 5 - filhos: 859
+grupo 6 - filhos: 748
+grupo 7 - filhos: 698
+grupo 8 - filhos: 526
+grupo 9 - filhos: 1162
+
+grupo 0 - filhos: 1074
+grupo 1 - filhos: 1541
+grupo 2 - filhos: 928
+grupo 3 - filhos: 638
+grupo 4 - filhos: 451
+grupo 5 - filhos: 698
+grupo 6 - filhos: 636
+grupo 7 - filhos: 696
+grupo 8 - filhos: 510
+grupo 9 - filhos: 1218
+
+grupo 0 - filhos: 1198
+grupo 1 - filhos: 1569
+grupo 2 - filhos: 903
+grupo 3 - filhos: 629
+grupo 4 - filhos: 436
+grupo 5 - filhos: 600
+grupo 6 - filhos: 629
+grupo 7 - filhos: 674
+grupo 8 - filhos: 517
+grupo 9 - filhos: 1235
+
+grupo 0 - filhos: 1276
+grupo 1 - filhos: 1587
+grupo 2 - filhos: 862
+grupo 3 - filhos: 632
+grupo 4 - filhos: 434
+grupo 5 - filhos: 540
+grupo 6 - filhos: 630
+grupo 7 - filhos: 655
+grupo 8 - filhos: 525
+grupo 9 - filhos: 1249
+
+grupo 0 - filhos: 1301
+grupo 1 - filhos: 1594
+grupo 2 - filhos: 827
+grupo 3 - filhos: 647
+grupo 4 - filhos: 442
+grupo 5 - filhos: 525
+grupo 6 - filhos: 631
+grupo 7 - filhos: 648
+grupo 8 - filhos: 526
+grupo 9 - filhos: 1249
+
+grupo 0 - filhos: 1311
+grupo 1 - filhos: 1607
+grupo 2 - filhos: 799
+grupo 3 - filhos: 653
+grupo 4 - filhos: 448
+grupo 5 - filhos: 529
+grupo 6 - filhos: 636
+grupo 7 - filhos: 637
+grupo 8 - filhos: 527
+grupo 9 - filhos: 1243
+
+grupo 0 - filhos: 1316
+grupo 1 - filhos: 1625
+grupo 2 - filhos: 768
+grupo 3 - filhos: 668
+grupo 4 - filhos: 453
+grupo 5 - filhos: 527
+grupo 6 - filhos: 640
+grupo 7 - filhos: 636
+grupo 8 - filhos: 523
+grupo 9 - filhos: 1234
+
+grupo 0 - filhos: 1312
+grupo 1 - filhos: 1651
+grupo 2 - filhos: 738
+grupo 3 - filhos: 675
+grupo 4 - filhos: 457
+grupo 5 - filhos: 530
+grupo 6 - filhos: 642
+grupo 7 - filhos: 636
+grupo 8 - filhos: 523
+grupo 9 - filhos: 1226
+
+grupo 0 - filhos: 1317
+grupo 1 - filhos: 1671
+grupo 2 - filhos: 710
+grupo 3 - filhos: 689
+grupo 4 - filhos: 461
+grupo 5 - filhos: 534
+grupo 6 - filhos: 638
+grupo 7 - filhos: 633
+grupo 8 - filhos: 517
+grupo 9 - filhos: 1220
+
+grupo 0 - filhos: 1318
+grupo 1 - filhos: 1691
+grupo 2 - filhos: 689
+grupo 3 - filhos: 703
+grupo 4 - filhos: 464
+grupo 5 - filhos: 537
+grupo 6 - filhos: 635
+grupo 7 - filhos: 626
+grupo 8 - filhos: 517
+grupo 9 - filhos: 1210
+
+grupo 0 - filhos: 1318
+grupo 1 - filhos: 1698
+grupo 2 - filhos: 655
+grupo 3 - filhos: 730
+grupo 4 - filhos: 466
+grupo 5 - filhos: 543
+grupo 6 - filhos: 634
+grupo 7 - filhos: 622
+grupo 8 - filhos: 517
+grupo 9 - filhos: 1207
+
+grupo 0 - filhos: 1322
+grupo 1 - filhos: 1697
+grupo 2 - filhos: 616
+grupo 3 - filhos: 758
+grupo 4 - filhos: 467
+grupo 5 - filhos: 554
+grupo 6 - filhos: 631
+grupo 7 - filhos: 621
+grupo 8 - filhos: 519
+grupo 9 - filhos: 1205
+
+grupo 0 - filhos: 1326
+grupo 1 - filhos: 1697
+grupo 2 - filhos: 586
+grupo 3 - filhos: 781
+grupo 4 - filhos: 469
+grupo 5 - filhos: 558
+grupo 6 - filhos: 632
+grupo 7 - filhos: 621
+grupo 8 - filhos: 518
+grupo 9 - filhos: 1202
+
+grupo 0 - filhos: 1328
+grupo 1 - filhos: 1693
+grupo 2 - filhos: 570
+grupo 3 - filhos: 794
+grupo 4 - filhos: 472
+grupo 5 - filhos: 564
+grupo 6 - filhos: 632
+grupo 7 - filhos: 620
+grupo 8 - filhos: 519
+grupo 9 - filhos: 1198
+
+grupo 0 - filhos: 1331
+grupo 1 - filhos: 1690
+grupo 2 - filhos: 563
+grupo 3 - filhos: 792
+grupo 4 - filhos: 478
+grupo 5 - filhos: 568
+grupo 6 - filhos: 631
+grupo 7 - filhos: 620
+grupo 8 - filhos: 519
+grupo 9 - filhos: 1198
+
+grupo 0 - filhos: 1331
+grupo 1 - filhos: 1691
+grupo 2 - filhos: 556
+grupo 3 - filhos: 784
+grupo 4 - filhos: 481
+grupo 5 - filhos: 580
+grupo 6 - filhos: 631
+grupo 7 - filhos: 619
+grupo 8 - filhos: 520
+grupo 9 - filhos: 1197
+
+grupo 0 - filhos: 1331
+grupo 1 - filhos: 1689
+grupo 2 - filhos: 547
+grupo 3 - filhos: 788
+grupo 4 - filhos: 486
+grupo 5 - filhos: 583
+grupo 6 - filhos: 633
+grupo 7 - filhos: 615
+grupo 8 - filhos: 521
+grupo 9 - filhos: 1197
+
+grupo 0 - filhos: 1333
+grupo 1 - filhos: 1689
+grupo 2 - filhos: 537
+grupo 3 - filhos: 785
+grupo 4 - filhos: 489
+grupo 5 - filhos: 590
+grupo 6 - filhos: 635
+grupo 7 - filhos: 614
+grupo 8 - filhos: 521
+grupo 9 - filhos: 1197
+
+grupo 0 - filhos: 1335
+grupo 1 - filhos: 1690
+grupo 2 - filhos: 533
+grupo 3 - filhos: 787
+grupo 4 - filhos: 489
+grupo 5 - filhos: 590
+grupo 6 - filhos: 635
+grupo 7 - filhos: 612
+grupo 8 - filhos: 522
+grupo 9 - filhos: 1197
+
+grupo 0 - filhos: 1335
+grupo 1 - filhos: 1692
+grupo 2 - filhos: 533
+grupo 3 - filhos: 787
+grupo 4 - filhos: 489
+grupo 5 - filhos: 592
+grupo 6 - filhos: 634
+grupo 7 - filhos: 609
+grupo 8 - filhos: 522
+grupo 9 - filhos: 1197
+
+grupo 0 - filhos: 1336
+grupo 1 - filhos: 1691
+grupo 2 - filhos: 534
+grupo 3 - filhos: 784
+grupo 4 - filhos: 490
+grupo 5 - filhos: 593
+grupo 6 - filhos: 634
+grupo 7 - filhos: 609
+grupo 8 - filhos: 522
+grupo 9 - filhos: 1197
+
+grupo 0 - filhos: 1335
+grupo 1 - filhos: 1691
+grupo 2 - filhos: 533
+grupo 3 - filhos: 784
+grupo 4 - filhos: 492
+grupo 5 - filhos: 593
+grupo 6 - filhos: 635
+grupo 7 - filhos: 609
+grupo 8 - filhos: 521
+grupo 9 - filhos: 1197
+
+grupo 0 - filhos: 1335
+grupo 1 - filhos: 1692
+grupo 2 - filhos: 534
+grupo 3 - filhos: 778
+grupo 4 - filhos: 493
+grupo 5 - filhos: 595
+grupo 6 - filhos: 635
+grupo 7 - filhos: 610
+grupo 8 - filhos: 521
+grupo 9 - filhos: 1197
+
+grupo 0 - filhos: 1335
+grupo 1 - filhos: 1692
+grupo 2 - filhos: 534
+grupo 3 - filhos: 776
+grupo 4 - filhos: 494
+grupo 5 - filhos: 596
+grupo 6 - filhos: 636
+grupo 7 - filhos: 609
+grupo 8 - filhos: 521
+grupo 9 - filhos: 1197
+
+grupo 0 - filhos: 1335
+grupo 1 - filhos: 1692
+grupo 2 - filhos: 533
+grupo 3 - filhos: 776
+grupo 4 - filhos: 495
+grupo 5 - filhos: 596
+grupo 6 - filhos: 636
+grupo 7 - filhos: 609
+grupo 8 - filhos: 521
+grupo 9 - filhos: 1197
+
+grupo 0 - filhos: 1335
+grupo 1 - filhos: 1692
+grupo 2 - filhos: 532
+grupo 3 - filhos: 774
+grupo 4 - filhos: 496
+grupo 5 - filhos: 598
+grupo 6 - filhos: 636
+grupo 7 - filhos: 609
+grupo 8 - filhos: 521
+grupo 9 - filhos: 1197
+
+grupo 0 - filhos: 1335
+grupo 1 - filhos: 1691
+grupo 2 - filhos: 531
+grupo 3 - filhos: 772
+grupo 4 - filhos: 497
+grupo 5 - filhos: 602
+grupo 6 - filhos: 636
+grupo 7 - filhos: 608
+grupo 8 - filhos: 521
+grupo 9 - filhos: 1197
+
+grupo 0 - filhos: 1335
+grupo 1 - filhos: 1691
+grupo 2 - filhos: 531
+grupo 3 - filhos: 770
+grupo 4 - filhos: 499
+grupo 5 - filhos: 602
+grupo 6 - filhos: 636
+grupo 7 - filhos: 608
+grupo 8 - filhos: 521
+grupo 9 - filhos: 1197
+
+####  Iniciando calculo silhouette  ####
+sil_means:0.08923968192940769
+####  Iniciando calculo erro quadratico  ####
+erro_quad_medio 0.3988518930641114

@@ -1,0 +1,86 @@
+grupo 0 - filhos: 472
+grupo 1 - filhos: 865
+grupo 2 - filhos: 301
+grupo 3 - filhos: 341
+grupo 4 - filhos: 246
+
+grupo 0 - filhos: 598
+grupo 1 - filhos: 733
+grupo 2 - filhos: 326
+grupo 3 - filhos: 317
+grupo 4 - filhos: 251
+
+grupo 0 - filhos: 590
+grupo 1 - filhos: 745
+grupo 2 - filhos: 329
+grupo 3 - filhos: 310
+grupo 4 - filhos: 251
+
+grupo 0 - filhos: 581
+grupo 1 - filhos: 644
+grupo 2 - filhos: 324
+grupo 3 - filhos: 400
+grupo 4 - filhos: 276
+
+grupo 0 - filhos: 505
+grupo 1 - filhos: 565
+grupo 2 - filhos: 330
+grupo 3 - filhos: 432
+grupo 4 - filhos: 393
+
+grupo 0 - filhos: 454
+grupo 1 - filhos: 491
+grupo 2 - filhos: 337
+grupo 3 - filhos: 437
+grupo 4 - filhos: 506
+
+grupo 0 - filhos: 483
+grupo 1 - filhos: 455
+grupo 2 - filhos: 319
+grupo 3 - filhos: 443
+grupo 4 - filhos: 525
+
+grupo 0 - filhos: 495
+grupo 1 - filhos: 439
+grupo 2 - filhos: 329
+grupo 3 - filhos: 444
+grupo 4 - filhos: 518
+
+grupo 0 - filhos: 501
+grupo 1 - filhos: 435
+grupo 2 - filhos: 335
+grupo 3 - filhos: 439
+grupo 4 - filhos: 515
+
+grupo 0 - filhos: 504
+grupo 1 - filhos: 435
+grupo 2 - filhos: 336
+grupo 3 - filhos: 438
+grupo 4 - filhos: 512
+
+grupo 0 - filhos: 504
+grupo 1 - filhos: 436
+grupo 2 - filhos: 336
+grupo 3 - filhos: 438
+grupo 4 - filhos: 511
+
+grupo 0 - filhos: 504
+grupo 1 - filhos: 436
+grupo 2 - filhos: 336
+grupo 3 - filhos: 438
+grupo 4 - filhos: 511
+
+grupo 0 - filhos: 504
+grupo 1 - filhos: 436
+grupo 2 - filhos: 336
+grupo 3 - filhos: 438
+grupo 4 - filhos: 511
+
+grupo 0 - filhos: 504
+grupo 1 - filhos: 436
+grupo 2 - filhos: 336
+grupo 3 - filhos: 438
+grupo 4 - filhos: 511
+
+sil_means:0.03409122952150934
+erro_quad_medio 0.4538809136590963

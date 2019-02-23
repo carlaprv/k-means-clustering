@@ -1,0 +1,155 @@
+grupo 0 - filhos: 747
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1477
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 567
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1657
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 488
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1736
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 422
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1802
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 360
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1864
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 312
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1912
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 275
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1949
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 256
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1968
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 249
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1975
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 248
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1976
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 247
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1977
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 247
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1977
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 247
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1977
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 247
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1977
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 247
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1977
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 247
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1977
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 247
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1977
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 247
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1977
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 247
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1977
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 247
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1977
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 247
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1977
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 247
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1977
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 247
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1977
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 247
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1977
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 247
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1977
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 247
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1977
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 247
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1977
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 247
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1977
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 247
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1977
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 247
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1977
+grupo 3 - filhos: 1
+
+####  Iniciando calculo silhouette  ####
+resolvendo divisao por 0
+sil_means:NaN
+####  Iniciando calculo erro quadratico  ####
+erro_quad_medio 841.73727519102

@@ -1,0 +1,152 @@
+grupo 0 - filhos: 11
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1
+grupo 3 - filhos: 2213
+
+grupo 0 - filhos: 12
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1
+grupo 3 - filhos: 2212
+
+grupo 0 - filhos: 14
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1
+grupo 3 - filhos: 2210
+
+grupo 0 - filhos: 15
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1
+grupo 3 - filhos: 2209
+
+grupo 0 - filhos: 15
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1
+grupo 3 - filhos: 2209
+
+grupo 0 - filhos: 15
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1
+grupo 3 - filhos: 2209
+
+grupo 0 - filhos: 15
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1
+grupo 3 - filhos: 2209
+
+grupo 0 - filhos: 15
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1
+grupo 3 - filhos: 2209
+
+grupo 0 - filhos: 15
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1
+grupo 3 - filhos: 2209
+
+grupo 0 - filhos: 15
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1
+grupo 3 - filhos: 2209
+
+grupo 0 - filhos: 15
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1
+grupo 3 - filhos: 2209
+
+grupo 0 - filhos: 15
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1
+grupo 3 - filhos: 2209
+
+grupo 0 - filhos: 15
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1
+grupo 3 - filhos: 2209
+
+grupo 0 - filhos: 15
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1
+grupo 3 - filhos: 2209
+
+grupo 0 - filhos: 15
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1
+grupo 3 - filhos: 2209
+
+grupo 0 - filhos: 15
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1
+grupo 3 - filhos: 2209
+
+grupo 0 - filhos: 15
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1
+grupo 3 - filhos: 2209
+
+grupo 0 - filhos: 15
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1
+grupo 3 - filhos: 2209
+
+grupo 0 - filhos: 15
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1
+grupo 3 - filhos: 2209
+
+grupo 0 - filhos: 15
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1
+grupo 3 - filhos: 2209
+
+grupo 0 - filhos: 15
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1
+grupo 3 - filhos: 2209
+
+grupo 0 - filhos: 15
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1
+grupo 3 - filhos: 2209
+
+grupo 0 - filhos: 15
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1
+grupo 3 - filhos: 2209
+
+grupo 0 - filhos: 15
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1
+grupo 3 - filhos: 2209
+
+grupo 0 - filhos: 15
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1
+grupo 3 - filhos: 2209
+
+grupo 0 - filhos: 15
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1
+grupo 3 - filhos: 2209
+
+grupo 0 - filhos: 15
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1
+grupo 3 - filhos: 2209
+
+grupo 0 - filhos: 15
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1
+grupo 3 - filhos: 2209
+
+grupo 0 - filhos: 15
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1
+grupo 3 - filhos: 2209
+
+grupo 0 - filhos: 15
+grupo 1 - filhos: 0
+grupo 2 - filhos: 1
+grupo 3 - filhos: 2209
+
+####  Iniciando calculo silhouette  ####
+resolvendo divisao por 0

@@ -1,0 +1,104 @@
+grupo 0 - filhos: 751
+grupo 1 - filhos: 410
+grupo 2 - filhos: 336
+grupo 3 - filhos: 728
+
+grupo 0 - filhos: 702
+grupo 1 - filhos: 413
+grupo 2 - filhos: 477
+grupo 3 - filhos: 633
+
+grupo 0 - filhos: 634
+grupo 1 - filhos: 334
+grupo 2 - filhos: 503
+grupo 3 - filhos: 754
+
+grupo 0 - filhos: 587
+grupo 1 - filhos: 311
+grupo 2 - filhos: 530
+grupo 3 - filhos: 797
+
+grupo 0 - filhos: 580
+grupo 1 - filhos: 299
+grupo 2 - filhos: 564
+grupo 3 - filhos: 782
+
+grupo 0 - filhos: 568
+grupo 1 - filhos: 298
+grupo 2 - filhos: 594
+grupo 3 - filhos: 765
+
+grupo 0 - filhos: 568
+grupo 1 - filhos: 303
+grupo 2 - filhos: 613
+grupo 3 - filhos: 741
+
+grupo 0 - filhos: 587
+grupo 1 - filhos: 311
+grupo 2 - filhos: 623
+grupo 3 - filhos: 704
+
+grupo 0 - filhos: 607
+grupo 1 - filhos: 329
+grupo 2 - filhos: 645
+grupo 3 - filhos: 644
+
+grupo 0 - filhos: 577
+grupo 1 - filhos: 361
+grupo 2 - filhos: 679
+grupo 3 - filhos: 608
+
+grupo 0 - filhos: 552
+grupo 1 - filhos: 398
+grupo 2 - filhos: 686
+grupo 3 - filhos: 589
+
+grupo 0 - filhos: 529
+grupo 1 - filhos: 409
+grupo 2 - filhos: 705
+grupo 3 - filhos: 582
+
+grupo 0 - filhos: 518
+grupo 1 - filhos: 411
+grupo 2 - filhos: 715
+grupo 3 - filhos: 581
+
+grupo 0 - filhos: 512
+grupo 1 - filhos: 411
+grupo 2 - filhos: 722
+grupo 3 - filhos: 580
+
+grupo 0 - filhos: 504
+grupo 1 - filhos: 412
+grupo 2 - filhos: 729
+grupo 3 - filhos: 580
+
+grupo 0 - filhos: 503
+grupo 1 - filhos: 412
+grupo 2 - filhos: 730
+grupo 3 - filhos: 580
+
+grupo 0 - filhos: 503
+grupo 1 - filhos: 412
+grupo 2 - filhos: 730
+grupo 3 - filhos: 580
+
+grupo 0 - filhos: 503
+grupo 1 - filhos: 412
+grupo 2 - filhos: 730
+grupo 3 - filhos: 580
+
+grupo 0 - filhos: 503
+grupo 1 - filhos: 412
+grupo 2 - filhos: 730
+grupo 3 - filhos: 580
+
+grupo 0 - filhos: 503
+grupo 1 - filhos: 412
+grupo 2 - filhos: 730
+grupo 3 - filhos: 580
+
+####  Iniciando calculo silhouette  ####
+sil_means:0.04210975049469427
+####  Iniciando calculo erro quadratico  ####
+erro_quad_medio 0.5016601498695227

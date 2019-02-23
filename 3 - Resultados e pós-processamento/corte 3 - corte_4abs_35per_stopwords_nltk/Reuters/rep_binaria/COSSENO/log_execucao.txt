@@ -1,0 +1,202 @@
+grupo 0 - filhos: 437
+grupo 1 - filhos: 1054
+grupo 2 - filhos: 761
+grupo 3 - filhos: 847
+grupo 4 - filhos: 735
+grupo 5 - filhos: 1088
+grupo 6 - filhos: 220
+grupo 7 - filhos: 549
+grupo 8 - filhos: 1729
+grupo 9 - filhos: 970
+
+grupo 0 - filhos: 757
+grupo 1 - filhos: 1413
+grupo 2 - filhos: 227
+grupo 3 - filhos: 956
+grupo 4 - filhos: 1479
+grupo 5 - filhos: 873
+grupo 6 - filhos: 390
+grupo 7 - filhos: 1149
+grupo 8 - filhos: 686
+grupo 9 - filhos: 460
+
+grupo 0 - filhos: 918
+grupo 1 - filhos: 1284
+grupo 2 - filhos: 229
+grupo 3 - filhos: 814
+grupo 4 - filhos: 1486
+grupo 5 - filhos: 789
+grupo 6 - filhos: 469
+grupo 7 - filhos: 950
+grupo 8 - filhos: 751
+grupo 9 - filhos: 700
+
+grupo 0 - filhos: 968
+grupo 1 - filhos: 1304
+grupo 2 - filhos: 284
+grupo 3 - filhos: 749
+grupo 4 - filhos: 1486
+grupo 5 - filhos: 745
+grupo 6 - filhos: 449
+grupo 7 - filhos: 844
+grupo 8 - filhos: 744
+grupo 9 - filhos: 817
+
+grupo 0 - filhos: 1003
+grupo 1 - filhos: 1297
+grupo 2 - filhos: 302
+grupo 3 - filhos: 728
+grupo 4 - filhos: 1494
+grupo 5 - filhos: 736
+grupo 6 - filhos: 438
+grupo 7 - filhos: 816
+grupo 8 - filhos: 741
+grupo 9 - filhos: 835
+
+grupo 0 - filhos: 1028
+grupo 1 - filhos: 1290
+grupo 2 - filhos: 294
+grupo 3 - filhos: 716
+grupo 4 - filhos: 1497
+grupo 5 - filhos: 734
+grupo 6 - filhos: 433
+grupo 7 - filhos: 819
+grupo 8 - filhos: 744
+grupo 9 - filhos: 835
+
+grupo 0 - filhos: 1034
+grupo 1 - filhos: 1298
+grupo 2 - filhos: 289
+grupo 3 - filhos: 716
+grupo 4 - filhos: 1502
+grupo 5 - filhos: 726
+grupo 6 - filhos: 429
+grupo 7 - filhos: 816
+grupo 8 - filhos: 742
+grupo 9 - filhos: 838
+
+grupo 0 - filhos: 1029
+grupo 1 - filhos: 1301
+grupo 2 - filhos: 302
+grupo 3 - filhos: 716
+grupo 4 - filhos: 1501
+grupo 5 - filhos: 732
+grupo 6 - filhos: 423
+grupo 7 - filhos: 810
+grupo 8 - filhos: 736
+grupo 9 - filhos: 840
+
+grupo 0 - filhos: 1025
+grupo 1 - filhos: 1303
+grupo 2 - filhos: 309
+grupo 3 - filhos: 712
+grupo 4 - filhos: 1500
+grupo 5 - filhos: 734
+grupo 6 - filhos: 420
+grupo 7 - filhos: 810
+grupo 8 - filhos: 735
+grupo 9 - filhos: 842
+
+grupo 0 - filhos: 1026
+grupo 1 - filhos: 1305
+grupo 2 - filhos: 323
+grupo 3 - filhos: 709
+grupo 4 - filhos: 1499
+grupo 5 - filhos: 733
+grupo 6 - filhos: 417
+grupo 7 - filhos: 808
+grupo 8 - filhos: 731
+grupo 9 - filhos: 839
+
+grupo 0 - filhos: 1029
+grupo 1 - filhos: 1306
+grupo 2 - filhos: 326
+grupo 3 - filhos: 709
+grupo 4 - filhos: 1500
+grupo 5 - filhos: 733
+grupo 6 - filhos: 413
+grupo 7 - filhos: 806
+grupo 8 - filhos: 730
+grupo 9 - filhos: 838
+
+grupo 0 - filhos: 1031
+grupo 1 - filhos: 1306
+grupo 2 - filhos: 326
+grupo 3 - filhos: 708
+grupo 4 - filhos: 1500
+grupo 5 - filhos: 733
+grupo 6 - filhos: 412
+grupo 7 - filhos: 805
+grupo 8 - filhos: 730
+grupo 9 - filhos: 839
+
+grupo 0 - filhos: 1031
+grupo 1 - filhos: 1306
+grupo 2 - filhos: 327
+grupo 3 - filhos: 708
+grupo 4 - filhos: 1500
+grupo 5 - filhos: 733
+grupo 6 - filhos: 412
+grupo 7 - filhos: 803
+grupo 8 - filhos: 730
+grupo 9 - filhos: 840
+
+grupo 0 - filhos: 1031
+grupo 1 - filhos: 1306
+grupo 2 - filhos: 327
+grupo 3 - filhos: 708
+grupo 4 - filhos: 1500
+grupo 5 - filhos: 733
+grupo 6 - filhos: 412
+grupo 7 - filhos: 802
+grupo 8 - filhos: 730
+grupo 9 - filhos: 841
+
+grupo 0 - filhos: 1031
+grupo 1 - filhos: 1306
+grupo 2 - filhos: 327
+grupo 3 - filhos: 708
+grupo 4 - filhos: 1500
+grupo 5 - filhos: 733
+grupo 6 - filhos: 412
+grupo 7 - filhos: 802
+grupo 8 - filhos: 731
+grupo 9 - filhos: 840
+
+grupo 0 - filhos: 1031
+grupo 1 - filhos: 1306
+grupo 2 - filhos: 327
+grupo 3 - filhos: 708
+grupo 4 - filhos: 1500
+grupo 5 - filhos: 733
+grupo 6 - filhos: 412
+grupo 7 - filhos: 802
+grupo 8 - filhos: 731
+grupo 9 - filhos: 840
+
+grupo 0 - filhos: 1031
+grupo 1 - filhos: 1306
+grupo 2 - filhos: 327
+grupo 3 - filhos: 708
+grupo 4 - filhos: 1500
+grupo 5 - filhos: 733
+grupo 6 - filhos: 412
+grupo 7 - filhos: 802
+grupo 8 - filhos: 731
+grupo 9 - filhos: 840
+
+grupo 0 - filhos: 1031
+grupo 1 - filhos: 1306
+grupo 2 - filhos: 327
+grupo 3 - filhos: 708
+grupo 4 - filhos: 1500
+grupo 5 - filhos: 733
+grupo 6 - filhos: 412
+grupo 7 - filhos: 802
+grupo 8 - filhos: 731
+grupo 9 - filhos: 840
+
+####  Iniciando calculo silhouette  ####
+sil_means:0.051767766697237434
+####  Iniciando calculo erro quadratico  ####
+erro_quad_medio 0.4209418734319287

@@ -1,0 +1,154 @@
+grupo 0 - filhos: 5
+grupo 1 - filhos: 577
+grupo 2 - filhos: 1639
+grupo 3 - filhos: 4
+
+grupo 0 - filhos: 7
+grupo 1 - filhos: 770
+grupo 2 - filhos: 1445
+grupo 3 - filhos: 3
+
+grupo 0 - filhos: 7
+grupo 1 - filhos: 845
+grupo 2 - filhos: 1370
+grupo 3 - filhos: 3
+
+grupo 0 - filhos: 7
+grupo 1 - filhos: 848
+grupo 2 - filhos: 1367
+grupo 3 - filhos: 3
+
+grupo 0 - filhos: 7
+grupo 1 - filhos: 844
+grupo 2 - filhos: 1371
+grupo 3 - filhos: 3
+
+grupo 0 - filhos: 7
+grupo 1 - filhos: 841
+grupo 2 - filhos: 1374
+grupo 3 - filhos: 3
+
+grupo 0 - filhos: 7
+grupo 1 - filhos: 840
+grupo 2 - filhos: 1375
+grupo 3 - filhos: 3
+
+grupo 0 - filhos: 7
+grupo 1 - filhos: 839
+grupo 2 - filhos: 1376
+grupo 3 - filhos: 3
+
+grupo 0 - filhos: 7
+grupo 1 - filhos: 839
+grupo 2 - filhos: 1376
+grupo 3 - filhos: 3
+
+grupo 0 - filhos: 7
+grupo 1 - filhos: 839
+grupo 2 - filhos: 1376
+grupo 3 - filhos: 3
+
+grupo 0 - filhos: 7
+grupo 1 - filhos: 839
+grupo 2 - filhos: 1376
+grupo 3 - filhos: 3
+
+grupo 0 - filhos: 7
+grupo 1 - filhos: 839
+grupo 2 - filhos: 1376
+grupo 3 - filhos: 3
+
+grupo 0 - filhos: 7
+grupo 1 - filhos: 839
+grupo 2 - filhos: 1376
+grupo 3 - filhos: 3
+
+grupo 0 - filhos: 7
+grupo 1 - filhos: 839
+grupo 2 - filhos: 1376
+grupo 3 - filhos: 3
+
+grupo 0 - filhos: 7
+grupo 1 - filhos: 839
+grupo 2 - filhos: 1376
+grupo 3 - filhos: 3
+
+grupo 0 - filhos: 7
+grupo 1 - filhos: 839
+grupo 2 - filhos: 1376
+grupo 3 - filhos: 3
+
+grupo 0 - filhos: 7
+grupo 1 - filhos: 839
+grupo 2 - filhos: 1376
+grupo 3 - filhos: 3
+
+grupo 0 - filhos: 7
+grupo 1 - filhos: 839
+grupo 2 - filhos: 1376
+grupo 3 - filhos: 3
+
+grupo 0 - filhos: 7
+grupo 1 - filhos: 839
+grupo 2 - filhos: 1376
+grupo 3 - filhos: 3
+
+grupo 0 - filhos: 7
+grupo 1 - filhos: 839
+grupo 2 - filhos: 1376
+grupo 3 - filhos: 3
+
+grupo 0 - filhos: 7
+grupo 1 - filhos: 839
+grupo 2 - filhos: 1376
+grupo 3 - filhos: 3
+
+grupo 0 - filhos: 7
+grupo 1 - filhos: 839
+grupo 2 - filhos: 1376
+grupo 3 - filhos: 3
+
+grupo 0 - filhos: 7
+grupo 1 - filhos: 839
+grupo 2 - filhos: 1376
+grupo 3 - filhos: 3
+
+grupo 0 - filhos: 7
+grupo 1 - filhos: 839
+grupo 2 - filhos: 1376
+grupo 3 - filhos: 3
+
+grupo 0 - filhos: 7
+grupo 1 - filhos: 839
+grupo 2 - filhos: 1376
+grupo 3 - filhos: 3
+
+grupo 0 - filhos: 7
+grupo 1 - filhos: 839
+grupo 2 - filhos: 1376
+grupo 3 - filhos: 3
+
+grupo 0 - filhos: 7
+grupo 1 - filhos: 839
+grupo 2 - filhos: 1376
+grupo 3 - filhos: 3
+
+grupo 0 - filhos: 7
+grupo 1 - filhos: 839
+grupo 2 - filhos: 1376
+grupo 3 - filhos: 3
+
+grupo 0 - filhos: 7
+grupo 1 - filhos: 839
+grupo 2 - filhos: 1376
+grupo 3 - filhos: 3
+
+grupo 0 - filhos: 7
+grupo 1 - filhos: 839
+grupo 2 - filhos: 1376
+grupo 3 - filhos: 3
+
+####  Iniciando calculo silhouette  ####
+sil_means:0.05733223360123453
+####  Iniciando calculo erro quadratico  ####
+erro_quad_medio 66.97678753890096

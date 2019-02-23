@@ -1,0 +1,110 @@
+grupo 0 - filhos: 214
+grupo 1 - filhos: 622
+grupo 2 - filhos: 317
+grupo 3 - filhos: 725
+grupo 4 - filhos: 347
+
+grupo 0 - filhos: 344
+grupo 1 - filhos: 550
+grupo 2 - filhos: 360
+grupo 3 - filhos: 495
+grupo 4 - filhos: 476
+
+grupo 0 - filhos: 427
+grupo 1 - filhos: 526
+grupo 2 - filhos: 404
+grupo 3 - filhos: 427
+grupo 4 - filhos: 441
+
+grupo 0 - filhos: 440
+grupo 1 - filhos: 499
+grupo 2 - filhos: 470
+grupo 3 - filhos: 428
+grupo 4 - filhos: 388
+
+grupo 0 - filhos: 470
+grupo 1 - filhos: 465
+grupo 2 - filhos: 509
+grupo 3 - filhos: 428
+grupo 4 - filhos: 353
+
+grupo 0 - filhos: 482
+grupo 1 - filhos: 449
+grupo 2 - filhos: 512
+grupo 3 - filhos: 433
+grupo 4 - filhos: 349
+
+grupo 0 - filhos: 489
+grupo 1 - filhos: 444
+grupo 2 - filhos: 512
+grupo 3 - filhos: 434
+grupo 4 - filhos: 346
+
+grupo 0 - filhos: 495
+grupo 1 - filhos: 440
+grupo 2 - filhos: 510
+grupo 3 - filhos: 434
+grupo 4 - filhos: 346
+
+grupo 0 - filhos: 498
+grupo 1 - filhos: 439
+grupo 2 - filhos: 510
+grupo 3 - filhos: 431
+grupo 4 - filhos: 347
+
+grupo 0 - filhos: 502
+grupo 1 - filhos: 438
+grupo 2 - filhos: 510
+grupo 3 - filhos: 428
+grupo 4 - filhos: 347
+
+grupo 0 - filhos: 504
+grupo 1 - filhos: 437
+grupo 2 - filhos: 510
+grupo 3 - filhos: 427
+grupo 4 - filhos: 347
+
+grupo 0 - filhos: 503
+grupo 1 - filhos: 437
+grupo 2 - filhos: 510
+grupo 3 - filhos: 428
+grupo 4 - filhos: 347
+
+grupo 0 - filhos: 505
+grupo 1 - filhos: 436
+grupo 2 - filhos: 510
+grupo 3 - filhos: 427
+grupo 4 - filhos: 347
+
+grupo 0 - filhos: 504
+grupo 1 - filhos: 436
+grupo 2 - filhos: 510
+grupo 3 - filhos: 428
+grupo 4 - filhos: 347
+
+grupo 0 - filhos: 504
+grupo 1 - filhos: 436
+grupo 2 - filhos: 510
+grupo 3 - filhos: 428
+grupo 4 - filhos: 347
+
+grupo 0 - filhos: 504
+grupo 1 - filhos: 436
+grupo 2 - filhos: 510
+grupo 3 - filhos: 428
+grupo 4 - filhos: 347
+
+grupo 0 - filhos: 504
+grupo 1 - filhos: 436
+grupo 2 - filhos: 510
+grupo 3 - filhos: 428
+grupo 4 - filhos: 347
+
+grupo 0 - filhos: 504
+grupo 1 - filhos: 436
+grupo 2 - filhos: 510
+grupo 3 - filhos: 428
+grupo 4 - filhos: 347
+
+sil_means:0.03805934273226419
+erro_quad_medio 0.38583309062948823

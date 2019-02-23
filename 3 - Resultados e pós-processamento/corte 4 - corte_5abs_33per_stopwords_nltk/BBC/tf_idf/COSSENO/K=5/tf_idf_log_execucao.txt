@@ -1,0 +1,140 @@
+grupo 0 - filhos: 213
+grupo 1 - filhos: 586
+grupo 2 - filhos: 330
+grupo 3 - filhos: 579
+grupo 4 - filhos: 517
+
+grupo 0 - filhos: 217
+grupo 1 - filhos: 715
+grupo 2 - filhos: 327
+grupo 3 - filhos: 409
+grupo 4 - filhos: 557
+
+grupo 0 - filhos: 263
+grupo 1 - filhos: 825
+grupo 2 - filhos: 316
+grupo 3 - filhos: 344
+grupo 4 - filhos: 477
+
+grupo 0 - filhos: 327
+grupo 1 - filhos: 808
+grupo 2 - filhos: 330
+grupo 3 - filhos: 319
+grupo 4 - filhos: 441
+
+grupo 0 - filhos: 373
+grupo 1 - filhos: 757
+grupo 2 - filhos: 344
+grupo 3 - filhos: 318
+grupo 4 - filhos: 433
+
+grupo 0 - filhos: 395
+grupo 1 - filhos: 718
+grupo 2 - filhos: 366
+grupo 3 - filhos: 316
+grupo 4 - filhos: 430
+
+grupo 0 - filhos: 401
+grupo 1 - filhos: 673
+grupo 2 - filhos: 377
+grupo 3 - filhos: 318
+grupo 4 - filhos: 456
+
+grupo 0 - filhos: 373
+grupo 1 - filhos: 635
+grupo 2 - filhos: 350
+grupo 3 - filhos: 321
+grupo 4 - filhos: 546
+
+grupo 0 - filhos: 372
+grupo 1 - filhos: 611
+grupo 2 - filhos: 349
+grupo 3 - filhos: 323
+grupo 4 - filhos: 570
+
+grupo 0 - filhos: 375
+grupo 1 - filhos: 597
+grupo 2 - filhos: 364
+grupo 3 - filhos: 331
+grupo 4 - filhos: 558
+
+grupo 0 - filhos: 377
+grupo 1 - filhos: 589
+grupo 2 - filhos: 372
+grupo 3 - filhos: 337
+grupo 4 - filhos: 550
+
+grupo 0 - filhos: 379
+grupo 1 - filhos: 582
+grupo 2 - filhos: 376
+grupo 3 - filhos: 342
+grupo 4 - filhos: 546
+
+grupo 0 - filhos: 379
+grupo 1 - filhos: 579
+grupo 2 - filhos: 377
+grupo 3 - filhos: 345
+grupo 4 - filhos: 545
+
+grupo 0 - filhos: 379
+grupo 1 - filhos: 576
+grupo 2 - filhos: 377
+grupo 3 - filhos: 350
+grupo 4 - filhos: 543
+
+grupo 0 - filhos: 379
+grupo 1 - filhos: 576
+grupo 2 - filhos: 379
+grupo 3 - filhos: 351
+grupo 4 - filhos: 540
+
+grupo 0 - filhos: 379
+grupo 1 - filhos: 575
+grupo 2 - filhos: 379
+grupo 3 - filhos: 352
+grupo 4 - filhos: 540
+
+grupo 0 - filhos: 379
+grupo 1 - filhos: 574
+grupo 2 - filhos: 379
+grupo 3 - filhos: 353
+grupo 4 - filhos: 540
+
+grupo 0 - filhos: 379
+grupo 1 - filhos: 574
+grupo 2 - filhos: 378
+grupo 3 - filhos: 354
+grupo 4 - filhos: 540
+
+grupo 0 - filhos: 379
+grupo 1 - filhos: 574
+grupo 2 - filhos: 378
+grupo 3 - filhos: 354
+grupo 4 - filhos: 540
+
+grupo 0 - filhos: 379
+grupo 1 - filhos: 574
+grupo 2 - filhos: 378
+grupo 3 - filhos: 354
+grupo 4 - filhos: 540
+
+grupo 0 - filhos: 379
+grupo 1 - filhos: 574
+grupo 2 - filhos: 378
+grupo 3 - filhos: 354
+grupo 4 - filhos: 540
+
+grupo 0 - filhos: 379
+grupo 1 - filhos: 574
+grupo 2 - filhos: 378
+grupo 3 - filhos: 354
+grupo 4 - filhos: 540
+
+grupo 0 - filhos: 379
+grupo 1 - filhos: 574
+grupo 2 - filhos: 378
+grupo 3 - filhos: 354
+grupo 4 - filhos: 540
+
+sil_means:0.042085573271349486
+erro_quad_medio 0.521230684793182

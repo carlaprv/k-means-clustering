@@ -1,0 +1,136 @@
+grupo 0 - filhos: 474
+grupo 1 - filhos: 593
+grupo 2 - filhos: 400
+grupo 3 - filhos: 517
+grupo 4 - filhos: 241
+
+grupo 0 - filhos: 506
+grupo 1 - filhos: 422
+grupo 2 - filhos: 631
+grupo 3 - filhos: 456
+grupo 4 - filhos: 210
+
+grupo 0 - filhos: 415
+grupo 1 - filhos: 466
+grupo 2 - filhos: 738
+grupo 3 - filhos: 444
+grupo 4 - filhos: 162
+
+grupo 0 - filhos: 334
+grupo 1 - filhos: 528
+grupo 2 - filhos: 726
+grupo 3 - filhos: 450
+grupo 4 - filhos: 187
+
+grupo 0 - filhos: 328
+grupo 1 - filhos: 517
+grupo 2 - filhos: 710
+grupo 3 - filhos: 441
+grupo 4 - filhos: 229
+
+grupo 0 - filhos: 356
+grupo 1 - filhos: 480
+grupo 2 - filhos: 700
+grupo 3 - filhos: 438
+grupo 4 - filhos: 251
+
+grupo 0 - filhos: 384
+grupo 1 - filhos: 449
+grupo 2 - filhos: 698
+grupo 3 - filhos: 437
+grupo 4 - filhos: 257
+
+grupo 0 - filhos: 399
+grupo 1 - filhos: 436
+grupo 2 - filhos: 697
+grupo 3 - filhos: 436
+grupo 4 - filhos: 257
+
+grupo 0 - filhos: 406
+grupo 1 - filhos: 431
+grupo 2 - filhos: 697
+grupo 3 - filhos: 437
+grupo 4 - filhos: 254
+
+grupo 0 - filhos: 411
+grupo 1 - filhos: 430
+grupo 2 - filhos: 698
+grupo 3 - filhos: 437
+grupo 4 - filhos: 249
+
+grupo 0 - filhos: 416
+grupo 1 - filhos: 428
+grupo 2 - filhos: 695
+grupo 3 - filhos: 438
+grupo 4 - filhos: 248
+
+grupo 0 - filhos: 422
+grupo 1 - filhos: 427
+grupo 2 - filhos: 694
+grupo 3 - filhos: 438
+grupo 4 - filhos: 244
+
+grupo 0 - filhos: 426
+grupo 1 - filhos: 427
+grupo 2 - filhos: 693
+grupo 3 - filhos: 438
+grupo 4 - filhos: 241
+
+grupo 0 - filhos: 430
+grupo 1 - filhos: 426
+grupo 2 - filhos: 691
+grupo 3 - filhos: 437
+grupo 4 - filhos: 241
+
+grupo 0 - filhos: 430
+grupo 1 - filhos: 426
+grupo 2 - filhos: 690
+grupo 3 - filhos: 437
+grupo 4 - filhos: 242
+
+grupo 0 - filhos: 430
+grupo 1 - filhos: 426
+grupo 2 - filhos: 687
+grupo 3 - filhos: 437
+grupo 4 - filhos: 245
+
+grupo 0 - filhos: 431
+grupo 1 - filhos: 426
+grupo 2 - filhos: 687
+grupo 3 - filhos: 437
+grupo 4 - filhos: 244
+
+grupo 0 - filhos: 431
+grupo 1 - filhos: 426
+grupo 2 - filhos: 687
+grupo 3 - filhos: 437
+grupo 4 - filhos: 244
+
+grupo 0 - filhos: 431
+grupo 1 - filhos: 426
+grupo 2 - filhos: 687
+grupo 3 - filhos: 437
+grupo 4 - filhos: 244
+
+grupo 0 - filhos: 431
+grupo 1 - filhos: 426
+grupo 2 - filhos: 687
+grupo 3 - filhos: 437
+grupo 4 - filhos: 244
+
+grupo 0 - filhos: 431
+grupo 1 - filhos: 426
+grupo 2 - filhos: 687
+grupo 3 - filhos: 437
+grupo 4 - filhos: 244
+
+grupo 0 - filhos: 431
+grupo 1 - filhos: 426
+grupo 2 - filhos: 687
+grupo 3 - filhos: 437
+grupo 4 - filhos: 244
+
+####  Iniciando calculo silhouette  ####
+sil_means:0.02846095245242954
+####  Iniciando calculo erro quadratico  ####
+erro_quad_medio 0.4681380126048359

@@ -1,0 +1,155 @@
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2224
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2224
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2224
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2224
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2224
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2224
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2224
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2224
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2224
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2224
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2224
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2224
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2224
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2224
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2224
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2224
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2224
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2224
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2224
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2224
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2224
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2224
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2224
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2224
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2224
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2224
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2224
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2224
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2224
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2224
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1
+
+####  Iniciando calculo silhouette  ####
+resolvendo divisao por 0
+sil_means:-1.0
+####  Iniciando calculo erro quadratico  ####
+erro_quad_medio 2051.3541523476583

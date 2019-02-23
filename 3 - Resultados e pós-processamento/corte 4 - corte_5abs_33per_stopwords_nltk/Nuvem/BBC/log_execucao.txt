@@ -1,0 +1,130 @@
+grupo 0 - filhos: 566
+grupo 1 - filhos: 509
+grupo 2 - filhos: 222
+grupo 3 - filhos: 607
+grupo 4 - filhos: 321
+
+grupo 0 - filhos: 471
+grupo 1 - filhos: 457
+grupo 2 - filhos: 347
+grupo 3 - filhos: 611
+grupo 4 - filhos: 339
+
+grupo 0 - filhos: 376
+grupo 1 - filhos: 592
+grupo 2 - filhos: 389
+grupo 3 - filhos: 523
+grupo 4 - filhos: 345
+
+grupo 0 - filhos: 326
+grupo 1 - filhos: 634
+grupo 2 - filhos: 431
+grupo 3 - filhos: 469
+grupo 4 - filhos: 365
+
+grupo 0 - filhos: 290
+grupo 1 - filhos: 642
+grupo 2 - filhos: 482
+grupo 3 - filhos: 451
+grupo 4 - filhos: 360
+
+grupo 0 - filhos: 305
+grupo 1 - filhos: 638
+grupo 2 - filhos: 500
+grupo 3 - filhos: 424
+grupo 4 - filhos: 358
+
+grupo 0 - filhos: 360
+grupo 1 - filhos: 644
+grupo 2 - filhos: 519
+grupo 3 - filhos: 356
+grupo 4 - filhos: 346
+
+grupo 0 - filhos: 369
+grupo 1 - filhos: 639
+grupo 2 - filhos: 538
+grupo 3 - filhos: 341
+grupo 4 - filhos: 338
+
+grupo 0 - filhos: 367
+grupo 1 - filhos: 635
+grupo 2 - filhos: 544
+grupo 3 - filhos: 343
+grupo 4 - filhos: 336
+
+grupo 0 - filhos: 363
+grupo 1 - filhos: 645
+grupo 2 - filhos: 555
+grupo 3 - filhos: 330
+grupo 4 - filhos: 332
+
+grupo 0 - filhos: 359
+grupo 1 - filhos: 679
+grupo 2 - filhos: 561
+grupo 3 - filhos: 297
+grupo 4 - filhos: 329
+
+grupo 0 - filhos: 358
+grupo 1 - filhos: 685
+grupo 2 - filhos: 561
+grupo 3 - filhos: 287
+grupo 4 - filhos: 334
+
+grupo 0 - filhos: 357
+grupo 1 - filhos: 661
+grupo 2 - filhos: 564
+grupo 3 - filhos: 307
+grupo 4 - filhos: 336
+
+grupo 0 - filhos: 357
+grupo 1 - filhos: 644
+grupo 2 - filhos: 564
+grupo 3 - filhos: 324
+grupo 4 - filhos: 336
+
+grupo 0 - filhos: 357
+grupo 1 - filhos: 611
+grupo 2 - filhos: 565
+grupo 3 - filhos: 354
+grupo 4 - filhos: 338
+
+grupo 0 - filhos: 357
+grupo 1 - filhos: 585
+grupo 2 - filhos: 567
+grupo 3 - filhos: 377
+grupo 4 - filhos: 339
+
+grupo 0 - filhos: 358
+grupo 1 - filhos: 566
+grupo 2 - filhos: 568
+grupo 3 - filhos: 392
+grupo 4 - filhos: 341
+
+grupo 0 - filhos: 358
+grupo 1 - filhos: 554
+grupo 2 - filhos: 571
+grupo 3 - filhos: 400
+grupo 4 - filhos: 342
+
+grupo 0 - filhos: 358
+grupo 1 - filhos: 551
+grupo 2 - filhos: 571
+grupo 3 - filhos: 403
+grupo 4 - filhos: 342
+
+grupo 0 - filhos: 358
+grupo 1 - filhos: 551
+grupo 2 - filhos: 571
+grupo 3 - filhos: 403
+grupo 4 - filhos: 342
+
+grupo 0 - filhos: 358
+grupo 1 - filhos: 551
+grupo 2 - filhos: 571
+grupo 3 - filhos: 403
+grupo 4 - filhos: 342
+
+####  Iniciando calculo silhouette  ####
+sil_means:0.0510021892562806
+####  Iniciando calculo erro quadratico  ####
+erro_quad_medio 0.4756758908141986

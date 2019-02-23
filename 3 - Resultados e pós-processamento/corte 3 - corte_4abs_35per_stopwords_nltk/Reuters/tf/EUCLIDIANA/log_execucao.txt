@@ -1,0 +1,334 @@
+grupo 0 - filhos: 0
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 8390
+grupo 5 - filhos: 0
+grupo 6 - filhos: 0
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 8390
+grupo 5 - filhos: 0
+grupo 6 - filhos: 0
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 8390
+grupo 5 - filhos: 0
+grupo 6 - filhos: 0
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 8390
+grupo 5 - filhos: 0
+grupo 6 - filhos: 0
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 8390
+grupo 5 - filhos: 0
+grupo 6 - filhos: 0
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 8390
+grupo 5 - filhos: 0
+grupo 6 - filhos: 0
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 8390
+grupo 5 - filhos: 0
+grupo 6 - filhos: 0
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 8390
+grupo 5 - filhos: 0
+grupo 6 - filhos: 0
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 8390
+grupo 5 - filhos: 0
+grupo 6 - filhos: 0
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 8390
+grupo 5 - filhos: 0
+grupo 6 - filhos: 0
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 8390
+grupo 5 - filhos: 0
+grupo 6 - filhos: 0
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 8390
+grupo 5 - filhos: 0
+grupo 6 - filhos: 0
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 8390
+grupo 5 - filhos: 0
+grupo 6 - filhos: 0
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 8390
+grupo 5 - filhos: 0
+grupo 6 - filhos: 0
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 8390
+grupo 5 - filhos: 0
+grupo 6 - filhos: 0
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 8390
+grupo 5 - filhos: 0
+grupo 6 - filhos: 0
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 8390
+grupo 5 - filhos: 0
+grupo 6 - filhos: 0
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 8390
+grupo 5 - filhos: 0
+grupo 6 - filhos: 0
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 8390
+grupo 5 - filhos: 0
+grupo 6 - filhos: 0
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 8390
+grupo 5 - filhos: 0
+grupo 6 - filhos: 0
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 8390
+grupo 5 - filhos: 0
+grupo 6 - filhos: 0
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 8390
+grupo 5 - filhos: 0
+grupo 6 - filhos: 0
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 8390
+grupo 5 - filhos: 0
+grupo 6 - filhos: 0
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 8390
+grupo 5 - filhos: 0
+grupo 6 - filhos: 0
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 8390
+grupo 5 - filhos: 0
+grupo 6 - filhos: 0
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 8390
+grupo 5 - filhos: 0
+grupo 6 - filhos: 0
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 8390
+grupo 5 - filhos: 0
+grupo 6 - filhos: 0
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 8390
+grupo 5 - filhos: 0
+grupo 6 - filhos: 0
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 8390
+grupo 5 - filhos: 0
+grupo 6 - filhos: 0
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 8390
+grupo 5 - filhos: 0
+grupo 6 - filhos: 0
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+####  Iniciando calculo silhouette  ####
+sil_means:-1.0
+####  Iniciando calculo erro quadratico  ####
+erro_quad_medio 186.98008418558456

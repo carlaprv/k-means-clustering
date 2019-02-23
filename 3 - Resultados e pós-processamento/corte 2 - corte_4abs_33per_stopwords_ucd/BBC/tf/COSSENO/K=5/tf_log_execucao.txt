@@ -1,0 +1,134 @@
+grupo 0 - filhos: 220
+grupo 1 - filhos: 478
+grupo 2 - filhos: 420
+grupo 3 - filhos: 777
+grupo 4 - filhos: 330
+
+grupo 0 - filhos: 229
+grupo 1 - filhos: 629
+grupo 2 - filhos: 404
+grupo 3 - filhos: 544
+grupo 4 - filhos: 419
+
+grupo 0 - filhos: 222
+grupo 1 - filhos: 607
+grupo 2 - filhos: 391
+grupo 3 - filhos: 525
+grupo 4 - filhos: 480
+
+grupo 0 - filhos: 236
+grupo 1 - filhos: 579
+grupo 2 - filhos: 378
+grupo 3 - filhos: 489
+grupo 4 - filhos: 543
+
+grupo 0 - filhos: 245
+grupo 1 - filhos: 546
+grupo 2 - filhos: 370
+grupo 3 - filhos: 469
+grupo 4 - filhos: 595
+
+grupo 0 - filhos: 249
+grupo 1 - filhos: 509
+grupo 2 - filhos: 375
+grupo 3 - filhos: 443
+grupo 4 - filhos: 649
+
+grupo 0 - filhos: 249
+grupo 1 - filhos: 482
+grupo 2 - filhos: 389
+grupo 3 - filhos: 424
+grupo 4 - filhos: 681
+
+grupo 0 - filhos: 249
+grupo 1 - filhos: 462
+grupo 2 - filhos: 413
+grupo 3 - filhos: 394
+grupo 4 - filhos: 707
+
+grupo 0 - filhos: 252
+grupo 1 - filhos: 452
+grupo 2 - filhos: 434
+grupo 3 - filhos: 356
+grupo 4 - filhos: 731
+
+grupo 0 - filhos: 252
+grupo 1 - filhos: 450
+grupo 2 - filhos: 467
+grupo 3 - filhos: 311
+grupo 4 - filhos: 745
+
+grupo 0 - filhos: 251
+grupo 1 - filhos: 451
+grupo 2 - filhos: 521
+grupo 3 - filhos: 255
+grupo 4 - filhos: 747
+
+grupo 0 - filhos: 248
+grupo 1 - filhos: 449
+grupo 2 - filhos: 531
+grupo 3 - filhos: 248
+grupo 4 - filhos: 749
+
+grupo 0 - filhos: 245
+grupo 1 - filhos: 447
+grupo 2 - filhos: 531
+grupo 3 - filhos: 251
+grupo 4 - filhos: 751
+
+grupo 0 - filhos: 244
+grupo 1 - filhos: 444
+grupo 2 - filhos: 531
+grupo 3 - filhos: 252
+grupo 4 - filhos: 754
+
+grupo 0 - filhos: 241
+grupo 1 - filhos: 442
+grupo 2 - filhos: 531
+grupo 3 - filhos: 255
+grupo 4 - filhos: 756
+
+grupo 0 - filhos: 242
+grupo 1 - filhos: 440
+grupo 2 - filhos: 531
+grupo 3 - filhos: 255
+grupo 4 - filhos: 757
+
+grupo 0 - filhos: 241
+grupo 1 - filhos: 440
+grupo 2 - filhos: 531
+grupo 3 - filhos: 256
+grupo 4 - filhos: 757
+
+grupo 0 - filhos: 241
+grupo 1 - filhos: 440
+grupo 2 - filhos: 531
+grupo 3 - filhos: 256
+grupo 4 - filhos: 757
+
+grupo 0 - filhos: 241
+grupo 1 - filhos: 440
+grupo 2 - filhos: 531
+grupo 3 - filhos: 256
+grupo 4 - filhos: 757
+
+grupo 0 - filhos: 241
+grupo 1 - filhos: 440
+grupo 2 - filhos: 531
+grupo 3 - filhos: 256
+grupo 4 - filhos: 757
+
+grupo 0 - filhos: 241
+grupo 1 - filhos: 440
+grupo 2 - filhos: 531
+grupo 3 - filhos: 256
+grupo 4 - filhos: 757
+
+grupo 0 - filhos: 241
+grupo 1 - filhos: 440
+grupo 2 - filhos: 531
+grupo 3 - filhos: 256
+grupo 4 - filhos: 757
+
+sil_means:0.04360716705609853
+erro_quad_medio 0.49144707728233605

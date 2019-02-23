@@ -1,0 +1,334 @@
+grupo 0 - filhos: 8350
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 0
+grupo 5 - filhos: 0
+grupo 6 - filhos: 40
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 8274
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 0
+grupo 5 - filhos: 0
+grupo 6 - filhos: 116
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 8062
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 0
+grupo 5 - filhos: 0
+grupo 6 - filhos: 328
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 7914
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 0
+grupo 5 - filhos: 0
+grupo 6 - filhos: 476
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 7780
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 0
+grupo 5 - filhos: 0
+grupo 6 - filhos: 610
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 7679
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 0
+grupo 5 - filhos: 0
+grupo 6 - filhos: 711
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 7611
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 0
+grupo 5 - filhos: 0
+grupo 6 - filhos: 779
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 7560
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 0
+grupo 5 - filhos: 0
+grupo 6 - filhos: 830
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 7524
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 0
+grupo 5 - filhos: 0
+grupo 6 - filhos: 866
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 7503
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 0
+grupo 5 - filhos: 0
+grupo 6 - filhos: 887
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 7481
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 0
+grupo 5 - filhos: 0
+grupo 6 - filhos: 909
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 7465
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 0
+grupo 5 - filhos: 0
+grupo 6 - filhos: 925
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 7451
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 0
+grupo 5 - filhos: 0
+grupo 6 - filhos: 939
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 7443
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 0
+grupo 5 - filhos: 0
+grupo 6 - filhos: 947
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 7439
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 0
+grupo 5 - filhos: 0
+grupo 6 - filhos: 951
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 7439
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 0
+grupo 5 - filhos: 0
+grupo 6 - filhos: 951
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 7439
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 0
+grupo 5 - filhos: 0
+grupo 6 - filhos: 951
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 7439
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 0
+grupo 5 - filhos: 0
+grupo 6 - filhos: 951
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 7439
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 0
+grupo 5 - filhos: 0
+grupo 6 - filhos: 951
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 7439
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 0
+grupo 5 - filhos: 0
+grupo 6 - filhos: 951
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 7439
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 0
+grupo 5 - filhos: 0
+grupo 6 - filhos: 951
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 7439
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 0
+grupo 5 - filhos: 0
+grupo 6 - filhos: 951
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 7439
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 0
+grupo 5 - filhos: 0
+grupo 6 - filhos: 951
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 7439
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 0
+grupo 5 - filhos: 0
+grupo 6 - filhos: 951
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 7439
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 0
+grupo 5 - filhos: 0
+grupo 6 - filhos: 951
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 7439
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 0
+grupo 5 - filhos: 0
+grupo 6 - filhos: 951
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 7439
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 0
+grupo 5 - filhos: 0
+grupo 6 - filhos: 951
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 7439
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 0
+grupo 5 - filhos: 0
+grupo 6 - filhos: 951
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 7439
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 0
+grupo 5 - filhos: 0
+grupo 6 - filhos: 951
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+grupo 0 - filhos: 7439
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 0
+grupo 5 - filhos: 0
+grupo 6 - filhos: 951
+grupo 7 - filhos: 0
+grupo 8 - filhos: 0
+grupo 9 - filhos: 0
+
+####  Iniciando calculo silhouette  ####
+sil_means:-1.0
+####  Iniciando calculo erro quadratico  ####
+erro_quad_medio 175.24368798876424

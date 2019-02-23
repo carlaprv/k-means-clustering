@@ -1,0 +1,154 @@
+grupo 0 - filhos: 1
+grupo 1 - filhos: 2105
+grupo 2 - filhos: 118
+grupo 3 - filhos: 1
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2111
+grupo 2 - filhos: 114
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2109
+grupo 2 - filhos: 116
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2111
+grupo 2 - filhos: 114
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2111
+grupo 2 - filhos: 114
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2113
+grupo 2 - filhos: 112
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2116
+grupo 2 - filhos: 109
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2120
+grupo 2 - filhos: 105
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2120
+grupo 2 - filhos: 105
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2112
+grupo 2 - filhos: 113
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2098
+grupo 2 - filhos: 127
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2091
+grupo 2 - filhos: 134
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2093
+grupo 2 - filhos: 132
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2089
+grupo 2 - filhos: 136
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2088
+grupo 2 - filhos: 137
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2088
+grupo 2 - filhos: 137
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2088
+grupo 2 - filhos: 137
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2088
+grupo 2 - filhos: 137
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2088
+grupo 2 - filhos: 137
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2088
+grupo 2 - filhos: 137
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2088
+grupo 2 - filhos: 137
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2088
+grupo 2 - filhos: 137
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2088
+grupo 2 - filhos: 137
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2088
+grupo 2 - filhos: 137
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2088
+grupo 2 - filhos: 137
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2088
+grupo 2 - filhos: 137
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2088
+grupo 2 - filhos: 137
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2088
+grupo 2 - filhos: 137
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2088
+grupo 2 - filhos: 137
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2088
+grupo 2 - filhos: 137
+grupo 3 - filhos: 0
+
+####  Iniciando calculo silhouette  ####
+sil_means:-1.0
+####  Iniciando calculo erro quadratico  ####
+erro_quad_medio 418.9364277176259

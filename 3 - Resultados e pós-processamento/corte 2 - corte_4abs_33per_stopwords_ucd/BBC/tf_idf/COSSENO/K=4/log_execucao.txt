@@ -1,0 +1,139 @@
+grupo 0 - filhos: 418
+grupo 1 - filhos: 642
+grupo 2 - filhos: 779
+grupo 3 - filhos: 386
+
+grupo 0 - filhos: 404
+grupo 1 - filhos: 541
+grupo 2 - filhos: 885
+grupo 3 - filhos: 395
+
+grupo 0 - filhos: 388
+grupo 1 - filhos: 532
+grupo 2 - filhos: 802
+grupo 3 - filhos: 503
+
+grupo 0 - filhos: 362
+grupo 1 - filhos: 520
+grupo 2 - filhos: 771
+grupo 3 - filhos: 572
+
+grupo 0 - filhos: 324
+grupo 1 - filhos: 498
+grupo 2 - filhos: 810
+grupo 3 - filhos: 593
+
+grupo 0 - filhos: 289
+grupo 1 - filhos: 486
+grupo 2 - filhos: 877
+grupo 3 - filhos: 573
+
+grupo 0 - filhos: 279
+grupo 1 - filhos: 484
+grupo 2 - filhos: 904
+grupo 3 - filhos: 558
+
+grupo 0 - filhos: 275
+grupo 1 - filhos: 485
+grupo 2 - filhos: 919
+grupo 3 - filhos: 546
+
+grupo 0 - filhos: 272
+grupo 1 - filhos: 485
+grupo 2 - filhos: 923
+grupo 3 - filhos: 545
+
+grupo 0 - filhos: 270
+grupo 1 - filhos: 485
+grupo 2 - filhos: 925
+grupo 3 - filhos: 545
+
+grupo 0 - filhos: 272
+grupo 1 - filhos: 485
+grupo 2 - filhos: 925
+grupo 3 - filhos: 543
+
+grupo 0 - filhos: 277
+grupo 1 - filhos: 485
+grupo 2 - filhos: 925
+grupo 3 - filhos: 538
+
+grupo 0 - filhos: 278
+grupo 1 - filhos: 485
+grupo 2 - filhos: 926
+grupo 3 - filhos: 536
+
+grupo 0 - filhos: 279
+grupo 1 - filhos: 485
+grupo 2 - filhos: 926
+grupo 3 - filhos: 535
+
+grupo 0 - filhos: 282
+grupo 1 - filhos: 485
+grupo 2 - filhos: 926
+grupo 3 - filhos: 532
+
+grupo 0 - filhos: 284
+grupo 1 - filhos: 485
+grupo 2 - filhos: 926
+grupo 3 - filhos: 530
+
+grupo 0 - filhos: 286
+grupo 1 - filhos: 485
+grupo 2 - filhos: 926
+grupo 3 - filhos: 528
+
+grupo 0 - filhos: 287
+grupo 1 - filhos: 485
+grupo 2 - filhos: 926
+grupo 3 - filhos: 527
+
+grupo 0 - filhos: 286
+grupo 1 - filhos: 485
+grupo 2 - filhos: 927
+grupo 3 - filhos: 527
+
+grupo 0 - filhos: 285
+grupo 1 - filhos: 485
+grupo 2 - filhos: 928
+grupo 3 - filhos: 527
+
+grupo 0 - filhos: 284
+grupo 1 - filhos: 485
+grupo 2 - filhos: 930
+grupo 3 - filhos: 526
+
+grupo 0 - filhos: 283
+grupo 1 - filhos: 485
+grupo 2 - filhos: 931
+grupo 3 - filhos: 526
+
+grupo 0 - filhos: 283
+grupo 1 - filhos: 485
+grupo 2 - filhos: 931
+grupo 3 - filhos: 526
+
+grupo 0 - filhos: 283
+grupo 1 - filhos: 485
+grupo 2 - filhos: 931
+grupo 3 - filhos: 526
+
+grupo 0 - filhos: 283
+grupo 1 - filhos: 485
+grupo 2 - filhos: 931
+grupo 3 - filhos: 526
+
+grupo 0 - filhos: 283
+grupo 1 - filhos: 485
+grupo 2 - filhos: 931
+grupo 3 - filhos: 526
+
+grupo 0 - filhos: 283
+grupo 1 - filhos: 485
+grupo 2 - filhos: 931
+grupo 3 - filhos: 526
+
+####  Iniciando calculo silhouette  ####
+sil_means:0.03784985491378687
+####  Iniciando calculo erro quadratico  ####
+erro_quad_medio 0.5524113668435411

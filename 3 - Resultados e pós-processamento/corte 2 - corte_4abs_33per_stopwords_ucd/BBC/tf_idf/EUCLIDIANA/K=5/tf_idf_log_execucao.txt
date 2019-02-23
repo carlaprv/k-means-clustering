@@ -1,0 +1,184 @@
+grupo 0 - filhos: 93
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 2132
+
+grupo 0 - filhos: 71
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 2154
+
+grupo 0 - filhos: 65
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 2160
+
+grupo 0 - filhos: 60
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 2165
+
+grupo 0 - filhos: 59
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 2166
+
+grupo 0 - filhos: 59
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 2166
+
+grupo 0 - filhos: 57
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 2168
+
+grupo 0 - filhos: 55
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 2170
+
+grupo 0 - filhos: 55
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 2170
+
+grupo 0 - filhos: 55
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 2170
+
+grupo 0 - filhos: 55
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 2170
+
+grupo 0 - filhos: 55
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 2170
+
+grupo 0 - filhos: 55
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 2170
+
+grupo 0 - filhos: 55
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 2170
+
+grupo 0 - filhos: 55
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 2170
+
+grupo 0 - filhos: 55
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 2170
+
+grupo 0 - filhos: 55
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 2170
+
+grupo 0 - filhos: 55
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 2170
+
+grupo 0 - filhos: 55
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 2170
+
+grupo 0 - filhos: 55
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 2170
+
+grupo 0 - filhos: 55
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 2170
+
+grupo 0 - filhos: 55
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 2170
+
+grupo 0 - filhos: 55
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 2170
+
+grupo 0 - filhos: 55
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 2170
+
+grupo 0 - filhos: 55
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 2170
+
+grupo 0 - filhos: 55
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 2170
+
+grupo 0 - filhos: 55
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 2170
+
+grupo 0 - filhos: 55
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 2170
+
+grupo 0 - filhos: 55
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 2170
+
+grupo 0 - filhos: 55
+grupo 1 - filhos: 0
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+grupo 4 - filhos: 2170
+
+####  Iniciando calculo silhouette  ####
+sil_means:-1.0
+####  Iniciando calculo erro quadratico  ####
+erro_quad_medio 2035.9564567574623

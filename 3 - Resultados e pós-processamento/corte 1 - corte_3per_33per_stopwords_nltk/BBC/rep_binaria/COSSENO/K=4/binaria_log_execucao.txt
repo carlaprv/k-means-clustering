@@ -1,0 +1,154 @@
+grupo 0 - filhos: 468
+grupo 1 - filhos: 653
+grupo 2 - filhos: 461
+grupo 3 - filhos: 643
+
+grupo 0 - filhos: 780
+grupo 1 - filhos: 616
+grupo 2 - filhos: 470
+grupo 3 - filhos: 359
+
+grupo 0 - filhos: 809
+grupo 1 - filhos: 718
+grupo 2 - filhos: 446
+grupo 3 - filhos: 252
+
+grupo 0 - filhos: 814
+grupo 1 - filhos: 754
+grupo 2 - filhos: 408
+grupo 3 - filhos: 249
+
+grupo 0 - filhos: 813
+grupo 1 - filhos: 774
+grupo 2 - filhos: 383
+grupo 3 - filhos: 255
+
+grupo 0 - filhos: 814
+grupo 1 - filhos: 786
+grupo 2 - filhos: 368
+grupo 3 - filhos: 257
+
+grupo 0 - filhos: 813
+grupo 1 - filhos: 793
+grupo 2 - filhos: 373
+grupo 3 - filhos: 246
+
+grupo 0 - filhos: 812
+grupo 1 - filhos: 785
+grupo 2 - filhos: 380
+grupo 3 - filhos: 248
+
+grupo 0 - filhos: 808
+grupo 1 - filhos: 767
+grupo 2 - filhos: 394
+grupo 3 - filhos: 256
+
+grupo 0 - filhos: 808
+grupo 1 - filhos: 756
+grupo 2 - filhos: 396
+grupo 3 - filhos: 265
+
+grupo 0 - filhos: 805
+grupo 1 - filhos: 744
+grupo 2 - filhos: 402
+grupo 3 - filhos: 274
+
+grupo 0 - filhos: 802
+grupo 1 - filhos: 735
+grupo 2 - filhos: 408
+grupo 3 - filhos: 280
+
+grupo 0 - filhos: 800
+grupo 1 - filhos: 727
+grupo 2 - filhos: 413
+grupo 3 - filhos: 285
+
+grupo 0 - filhos: 798
+grupo 1 - filhos: 721
+grupo 2 - filhos: 417
+grupo 3 - filhos: 289
+
+grupo 0 - filhos: 796
+grupo 1 - filhos: 714
+grupo 2 - filhos: 423
+grupo 3 - filhos: 292
+
+grupo 0 - filhos: 796
+grupo 1 - filhos: 706
+grupo 2 - filhos: 428
+grupo 3 - filhos: 295
+
+grupo 0 - filhos: 795
+grupo 1 - filhos: 699
+grupo 2 - filhos: 434
+grupo 3 - filhos: 297
+
+grupo 0 - filhos: 795
+grupo 1 - filhos: 690
+grupo 2 - filhos: 444
+grupo 3 - filhos: 296
+
+grupo 0 - filhos: 794
+grupo 1 - filhos: 680
+grupo 2 - filhos: 457
+grupo 3 - filhos: 294
+
+grupo 0 - filhos: 792
+grupo 1 - filhos: 673
+grupo 2 - filhos: 466
+grupo 3 - filhos: 294
+
+grupo 0 - filhos: 792
+grupo 1 - filhos: 666
+grupo 2 - filhos: 469
+grupo 3 - filhos: 298
+
+grupo 0 - filhos: 793
+grupo 1 - filhos: 655
+grupo 2 - filhos: 470
+grupo 3 - filhos: 307
+
+grupo 0 - filhos: 795
+grupo 1 - filhos: 640
+grupo 2 - filhos: 476
+grupo 3 - filhos: 314
+
+grupo 0 - filhos: 794
+grupo 1 - filhos: 618
+grupo 2 - filhos: 487
+grupo 3 - filhos: 326
+
+grupo 0 - filhos: 795
+grupo 1 - filhos: 598
+grupo 2 - filhos: 494
+grupo 3 - filhos: 338
+
+grupo 0 - filhos: 798
+grupo 1 - filhos: 557
+grupo 2 - filhos: 516
+grupo 3 - filhos: 354
+
+grupo 0 - filhos: 804
+grupo 1 - filhos: 509
+grupo 2 - filhos: 532
+grupo 3 - filhos: 380
+
+grupo 0 - filhos: 813
+grupo 1 - filhos: 450
+grupo 2 - filhos: 553
+grupo 3 - filhos: 409
+
+grupo 0 - filhos: 824
+grupo 1 - filhos: 432
+grupo 2 - filhos: 540
+grupo 3 - filhos: 429
+
+grupo 0 - filhos: 832
+grupo 1 - filhos: 428
+grupo 2 - filhos: 532
+grupo 3 - filhos: 433
+
+####  Iniciando calculo silhouette  ####
+sil_means:0.037305859932927954
+####  Iniciando calculo erro quadratico  ####
+erro_quad_medio 0.3965375784728131

@@ -1,0 +1,154 @@
+grupo 0 - filhos: 2159
+grupo 1 - filhos: 62
+grupo 2 - filhos: 4
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 2079
+grupo 1 - filhos: 146
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 2008
+grupo 1 - filhos: 217
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 1988
+grupo 1 - filhos: 237
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 1967
+grupo 1 - filhos: 258
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 1958
+grupo 1 - filhos: 267
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 1952
+grupo 1 - filhos: 273
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 1948
+grupo 1 - filhos: 277
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 1943
+grupo 1 - filhos: 282
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 1941
+grupo 1 - filhos: 284
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 1939
+grupo 1 - filhos: 286
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 1939
+grupo 1 - filhos: 286
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 1939
+grupo 1 - filhos: 286
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 1939
+grupo 1 - filhos: 286
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 1939
+grupo 1 - filhos: 286
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 1939
+grupo 1 - filhos: 286
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 1939
+grupo 1 - filhos: 286
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 1939
+grupo 1 - filhos: 286
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 1939
+grupo 1 - filhos: 286
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 1939
+grupo 1 - filhos: 286
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 1939
+grupo 1 - filhos: 286
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 1939
+grupo 1 - filhos: 286
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 1939
+grupo 1 - filhos: 286
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 1939
+grupo 1 - filhos: 286
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 1939
+grupo 1 - filhos: 286
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 1939
+grupo 1 - filhos: 286
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 1939
+grupo 1 - filhos: 286
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 1939
+grupo 1 - filhos: 286
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 1939
+grupo 1 - filhos: 286
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 1939
+grupo 1 - filhos: 286
+grupo 2 - filhos: 0
+grupo 3 - filhos: 0
+
+####  Iniciando calculo silhouette  ####
+sil_means:-1.0
+####  Iniciando calculo erro quadratico  ####
+erro_quad_medio 102.83215421255122

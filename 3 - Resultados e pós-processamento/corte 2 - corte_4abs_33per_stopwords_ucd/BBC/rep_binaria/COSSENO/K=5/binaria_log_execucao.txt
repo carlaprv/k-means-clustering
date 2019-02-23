@@ -1,0 +1,68 @@
+grupo 0 - filhos: 502
+grupo 1 - filhos: 473
+grupo 2 - filhos: 397
+grupo 3 - filhos: 472
+grupo 4 - filhos: 381
+
+grupo 0 - filhos: 462
+grupo 1 - filhos: 411
+grupo 2 - filhos: 606
+grupo 3 - filhos: 414
+grupo 4 - filhos: 332
+
+grupo 0 - filhos: 523
+grupo 1 - filhos: 376
+grupo 2 - filhos: 534
+grupo 3 - filhos: 440
+grupo 4 - filhos: 352
+
+grupo 0 - filhos: 483
+grupo 1 - filhos: 373
+grupo 2 - filhos: 506
+grupo 3 - filhos: 463
+grupo 4 - filhos: 400
+
+grupo 0 - filhos: 423
+grupo 1 - filhos: 417
+grupo 2 - filhos: 510
+grupo 3 - filhos: 445
+grupo 4 - filhos: 430
+
+grupo 0 - filhos: 390
+grupo 1 - filhos: 486
+grupo 2 - filhos: 510
+grupo 3 - filhos: 439
+grupo 4 - filhos: 400
+
+grupo 0 - filhos: 375
+grupo 1 - filhos: 510
+grupo 2 - filhos: 508
+grupo 3 - filhos: 437
+grupo 4 - filhos: 395
+
+grupo 0 - filhos: 372
+grupo 1 - filhos: 515
+grupo 2 - filhos: 508
+grupo 3 - filhos: 437
+grupo 4 - filhos: 393
+
+grupo 0 - filhos: 372
+grupo 1 - filhos: 516
+grupo 2 - filhos: 508
+grupo 3 - filhos: 437
+grupo 4 - filhos: 392
+
+grupo 0 - filhos: 372
+grupo 1 - filhos: 516
+grupo 2 - filhos: 508
+grupo 3 - filhos: 437
+grupo 4 - filhos: 392
+
+grupo 0 - filhos: 372
+grupo 1 - filhos: 516
+grupo 2 - filhos: 508
+grupo 3 - filhos: 437
+grupo 4 - filhos: 392
+
+sil_means:0.035633511239945265
+erro_quad_medio 0.4576713064184877

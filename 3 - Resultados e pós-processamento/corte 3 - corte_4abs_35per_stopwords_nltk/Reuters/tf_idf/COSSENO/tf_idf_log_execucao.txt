@@ -1,0 +1,213 @@
+grupo 0 - filhos: 369
+grupo 1 - filhos: 1161
+grupo 2 - filhos: 1003
+grupo 3 - filhos: 1268
+grupo 4 - filhos: 1161
+grupo 5 - filhos: 822
+grupo 6 - filhos: 574
+grupo 7 - filhos: 823
+grupo 8 - filhos: 741
+grupo 9 - filhos: 468
+
+grupo 0 - filhos: 171
+grupo 1 - filhos: 1081
+grupo 2 - filhos: 873
+grupo 3 - filhos: 990
+grupo 4 - filhos: 751
+grupo 5 - filhos: 1073
+grupo 6 - filhos: 373
+grupo 7 - filhos: 1750
+grupo 8 - filhos: 746
+grupo 9 - filhos: 582
+
+grupo 0 - filhos: 380
+grupo 1 - filhos: 1034
+grupo 2 - filhos: 833
+grupo 3 - filhos: 823
+grupo 4 - filhos: 844
+grupo 5 - filhos: 948
+grupo 6 - filhos: 193
+grupo 7 - filhos: 2000
+grupo 8 - filhos: 695
+grupo 9 - filhos: 640
+
+grupo 0 - filhos: 522
+grupo 1 - filhos: 1017
+grupo 2 - filhos: 706
+grupo 3 - filhos: 798
+grupo 4 - filhos: 855
+grupo 5 - filhos: 953
+grupo 6 - filhos: 144
+grupo 7 - filhos: 1965
+grupo 8 - filhos: 673
+grupo 9 - filhos: 757
+
+grupo 0 - filhos: 517
+grupo 1 - filhos: 1005
+grupo 2 - filhos: 536
+grupo 3 - filhos: 794
+grupo 4 - filhos: 858
+grupo 5 - filhos: 958
+grupo 6 - filhos: 138
+grupo 7 - filhos: 1985
+grupo 8 - filhos: 648
+grupo 9 - filhos: 951
+
+grupo 0 - filhos: 493
+grupo 1 - filhos: 1002
+grupo 2 - filhos: 548
+grupo 3 - filhos: 796
+grupo 4 - filhos: 855
+grupo 5 - filhos: 978
+grupo 6 - filhos: 138
+grupo 7 - filhos: 2020
+grupo 8 - filhos: 636
+grupo 9 - filhos: 924
+
+grupo 0 - filhos: 472
+grupo 1 - filhos: 998
+grupo 2 - filhos: 551
+grupo 3 - filhos: 797
+grupo 4 - filhos: 854
+grupo 5 - filhos: 990
+grupo 6 - filhos: 138
+grupo 7 - filhos: 2073
+grupo 8 - filhos: 622
+grupo 9 - filhos: 895
+
+grupo 0 - filhos: 472
+grupo 1 - filhos: 994
+grupo 2 - filhos: 548
+grupo 3 - filhos: 796
+grupo 4 - filhos: 852
+grupo 5 - filhos: 994
+grupo 6 - filhos: 138
+grupo 7 - filhos: 2098
+grupo 8 - filhos: 614
+grupo 9 - filhos: 884
+
+grupo 0 - filhos: 473
+grupo 1 - filhos: 992
+grupo 2 - filhos: 546
+grupo 3 - filhos: 795
+grupo 4 - filhos: 852
+grupo 5 - filhos: 990
+grupo 6 - filhos: 139
+grupo 7 - filhos: 2113
+grupo 8 - filhos: 606
+grupo 9 - filhos: 884
+
+grupo 0 - filhos: 497
+grupo 1 - filhos: 985
+grupo 2 - filhos: 542
+grupo 3 - filhos: 795
+grupo 4 - filhos: 852
+grupo 5 - filhos: 990
+grupo 6 - filhos: 139
+grupo 7 - filhos: 2115
+grupo 8 - filhos: 601
+grupo 9 - filhos: 874
+
+grupo 0 - filhos: 506
+grupo 1 - filhos: 981
+grupo 2 - filhos: 541
+grupo 3 - filhos: 795
+grupo 4 - filhos: 852
+grupo 5 - filhos: 988
+grupo 6 - filhos: 139
+grupo 7 - filhos: 2120
+grupo 8 - filhos: 596
+grupo 9 - filhos: 872
+
+grupo 0 - filhos: 505
+grupo 1 - filhos: 979
+grupo 2 - filhos: 542
+grupo 3 - filhos: 795
+grupo 4 - filhos: 852
+grupo 5 - filhos: 993
+grupo 6 - filhos: 139
+grupo 7 - filhos: 2124
+grupo 8 - filhos: 595
+grupo 9 - filhos: 866
+
+grupo 0 - filhos: 504
+grupo 1 - filhos: 977
+grupo 2 - filhos: 542
+grupo 3 - filhos: 795
+grupo 4 - filhos: 852
+grupo 5 - filhos: 997
+grupo 6 - filhos: 139
+grupo 7 - filhos: 2128
+grupo 8 - filhos: 594
+grupo 9 - filhos: 862
+
+grupo 0 - filhos: 503
+grupo 1 - filhos: 976
+grupo 2 - filhos: 542
+grupo 3 - filhos: 795
+grupo 4 - filhos: 852
+grupo 5 - filhos: 1000
+grupo 6 - filhos: 139
+grupo 7 - filhos: 2129
+grupo 8 - filhos: 593
+grupo 9 - filhos: 861
+
+grupo 0 - filhos: 505
+grupo 1 - filhos: 975
+grupo 2 - filhos: 542
+grupo 3 - filhos: 795
+grupo 4 - filhos: 851
+grupo 5 - filhos: 999
+grupo 6 - filhos: 139
+grupo 7 - filhos: 2130
+grupo 8 - filhos: 592
+grupo 9 - filhos: 862
+
+grupo 0 - filhos: 508
+grupo 1 - filhos: 975
+grupo 2 - filhos: 542
+grupo 3 - filhos: 795
+grupo 4 - filhos: 851
+grupo 5 - filhos: 998
+grupo 6 - filhos: 139
+grupo 7 - filhos: 2128
+grupo 8 - filhos: 592
+grupo 9 - filhos: 862
+
+grupo 0 - filhos: 508
+grupo 1 - filhos: 975
+grupo 2 - filhos: 542
+grupo 3 - filhos: 795
+grupo 4 - filhos: 851
+grupo 5 - filhos: 998
+grupo 6 - filhos: 139
+grupo 7 - filhos: 2128
+grupo 8 - filhos: 592
+grupo 9 - filhos: 862
+
+grupo 0 - filhos: 508
+grupo 1 - filhos: 975
+grupo 2 - filhos: 542
+grupo 3 - filhos: 795
+grupo 4 - filhos: 851
+grupo 5 - filhos: 998
+grupo 6 - filhos: 139
+grupo 7 - filhos: 2128
+grupo 8 - filhos: 592
+grupo 9 - filhos: 862
+
+grupo 0 - filhos: 508
+grupo 1 - filhos: 975
+grupo 2 - filhos: 542
+grupo 3 - filhos: 795
+grupo 4 - filhos: 851
+grupo 5 - filhos: 998
+grupo 6 - filhos: 139
+grupo 7 - filhos: 2128
+grupo 8 - filhos: 592
+grupo 9 - filhos: 862
+
+####  Iniciando calculo silhouette  ####
+sil_means:0.08735220857918775
+####  Iniciando calculo erro quadratico  ####
+erro_quad_medio 0.4291547745698818

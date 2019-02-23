@@ -1,0 +1,112 @@
+grupo 0 - filhos: 469
+grupo 1 - filhos: 145
+grupo 2 - filhos: 545
+grupo 3 - filhos: 499
+grupo 4 - filhos: 567
+
+grupo 0 - filhos: 330
+grupo 1 - filhos: 228
+grupo 2 - filhos: 490
+grupo 3 - filhos: 509
+grupo 4 - filhos: 668
+
+grupo 0 - filhos: 369
+grupo 1 - filhos: 222
+grupo 2 - filhos: 514
+grupo 3 - filhos: 511
+grupo 4 - filhos: 609
+
+grupo 0 - filhos: 374
+grupo 1 - filhos: 210
+grupo 2 - filhos: 554
+grupo 3 - filhos: 497
+grupo 4 - filhos: 590
+
+grupo 0 - filhos: 348
+grupo 1 - filhos: 224
+grupo 2 - filhos: 587
+grupo 3 - filhos: 480
+grupo 4 - filhos: 586
+
+grupo 0 - filhos: 341
+grupo 1 - filhos: 250
+grupo 2 - filhos: 586
+grupo 3 - filhos: 466
+grupo 4 - filhos: 582
+
+grupo 0 - filhos: 341
+grupo 1 - filhos: 298
+grupo 2 - filhos: 555
+grupo 3 - filhos: 453
+grupo 4 - filhos: 578
+
+grupo 0 - filhos: 342
+grupo 1 - filhos: 361
+grupo 2 - filhos: 509
+grupo 3 - filhos: 438
+grupo 4 - filhos: 575
+
+grupo 0 - filhos: 345
+grupo 1 - filhos: 359
+grupo 2 - filhos: 512
+grupo 3 - filhos: 433
+grupo 4 - filhos: 576
+
+grupo 0 - filhos: 346
+grupo 1 - filhos: 356
+grupo 2 - filhos: 515
+grupo 3 - filhos: 432
+grupo 4 - filhos: 576
+
+grupo 0 - filhos: 347
+grupo 1 - filhos: 355
+grupo 2 - filhos: 515
+grupo 3 - filhos: 432
+grupo 4 - filhos: 576
+
+grupo 0 - filhos: 348
+grupo 1 - filhos: 354
+grupo 2 - filhos: 515
+grupo 3 - filhos: 432
+grupo 4 - filhos: 576
+
+grupo 0 - filhos: 348
+grupo 1 - filhos: 354
+grupo 2 - filhos: 515
+grupo 3 - filhos: 432
+grupo 4 - filhos: 576
+
+grupo 0 - filhos: 348
+grupo 1 - filhos: 354
+grupo 2 - filhos: 515
+grupo 3 - filhos: 432
+grupo 4 - filhos: 576
+
+grupo 0 - filhos: 348
+grupo 1 - filhos: 354
+grupo 2 - filhos: 515
+grupo 3 - filhos: 432
+grupo 4 - filhos: 576
+
+grupo 0 - filhos: 348
+grupo 1 - filhos: 354
+grupo 2 - filhos: 515
+grupo 3 - filhos: 432
+grupo 4 - filhos: 576
+
+grupo 0 - filhos: 348
+grupo 1 - filhos: 354
+grupo 2 - filhos: 515
+grupo 3 - filhos: 432
+grupo 4 - filhos: 576
+
+grupo 0 - filhos: 348
+grupo 1 - filhos: 354
+grupo 2 - filhos: 515
+grupo 3 - filhos: 432
+grupo 4 - filhos: 576
+
+####  Iniciando calculo silhouette  ####
+sil_means:0.06857840100863245
+####  Iniciando calculo erro quadratico  ####
+erro_quad_medio 0.40437252005528623

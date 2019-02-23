@@ -1,0 +1,104 @@
+grupo 0 - filhos: 396
+grupo 1 - filhos: 497
+grupo 2 - filhos: 501
+grupo 3 - filhos: 486
+grupo 4 - filhos: 345
+
+grupo 0 - filhos: 631
+grupo 1 - filhos: 414
+grupo 2 - filhos: 319
+grupo 3 - filhos: 323
+grupo 4 - filhos: 538
+
+grupo 0 - filhos: 706
+grupo 1 - filhos: 319
+grupo 2 - filhos: 291
+grupo 3 - filhos: 380
+grupo 4 - filhos: 529
+
+grupo 0 - filhos: 681
+grupo 1 - filhos: 302
+grupo 2 - filhos: 322
+grupo 3 - filhos: 391
+grupo 4 - filhos: 529
+
+grupo 0 - filhos: 649
+grupo 1 - filhos: 320
+grupo 2 - filhos: 338
+grupo 3 - filhos: 388
+grupo 4 - filhos: 530
+
+grupo 0 - filhos: 613
+grupo 1 - filhos: 352
+grupo 2 - filhos: 340
+grupo 3 - filhos: 383
+grupo 4 - filhos: 537
+
+grupo 0 - filhos: 589
+grupo 1 - filhos: 371
+grupo 2 - filhos: 344
+grupo 3 - filhos: 374
+grupo 4 - filhos: 547
+
+grupo 0 - filhos: 569
+grupo 1 - filhos: 388
+grupo 2 - filhos: 348
+grupo 3 - filhos: 365
+grupo 4 - filhos: 555
+
+grupo 0 - filhos: 553
+grupo 1 - filhos: 400
+grupo 2 - filhos: 350
+grupo 3 - filhos: 363
+grupo 4 - filhos: 559
+
+grupo 0 - filhos: 549
+grupo 1 - filhos: 403
+grupo 2 - filhos: 350
+grupo 3 - filhos: 356
+grupo 4 - filhos: 567
+
+grupo 0 - filhos: 549
+grupo 1 - filhos: 403
+grupo 2 - filhos: 350
+grupo 3 - filhos: 351
+grupo 4 - filhos: 572
+
+grupo 0 - filhos: 549
+grupo 1 - filhos: 403
+grupo 2 - filhos: 350
+grupo 3 - filhos: 350
+grupo 4 - filhos: 573
+
+grupo 0 - filhos: 549
+grupo 1 - filhos: 403
+grupo 2 - filhos: 350
+grupo 3 - filhos: 350
+grupo 4 - filhos: 573
+
+grupo 0 - filhos: 549
+grupo 1 - filhos: 403
+grupo 2 - filhos: 350
+grupo 3 - filhos: 350
+grupo 4 - filhos: 573
+
+grupo 0 - filhos: 549
+grupo 1 - filhos: 403
+grupo 2 - filhos: 350
+grupo 3 - filhos: 350
+grupo 4 - filhos: 573
+
+grupo 0 - filhos: 549
+grupo 1 - filhos: 403
+grupo 2 - filhos: 350
+grupo 3 - filhos: 350
+grupo 4 - filhos: 573
+
+grupo 0 - filhos: 549
+grupo 1 - filhos: 403
+grupo 2 - filhos: 350
+grupo 3 - filhos: 350
+grupo 4 - filhos: 573
+
+sil_means:0.05009001726075777
+erro_quad_medio 0.47877668339302476

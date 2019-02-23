@@ -1,0 +1,154 @@
+grupo 0 - filhos: 4
+grupo 1 - filhos: 2164
+grupo 2 - filhos: 57
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2090
+grupo 2 - filhos: 135
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1986
+grupo 2 - filhos: 239
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1954
+grupo 2 - filhos: 271
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1937
+grupo 2 - filhos: 288
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1926
+grupo 2 - filhos: 299
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1922
+grupo 2 - filhos: 303
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1920
+grupo 2 - filhos: 305
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1919
+grupo 2 - filhos: 306
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1919
+grupo 2 - filhos: 306
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1919
+grupo 2 - filhos: 306
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1919
+grupo 2 - filhos: 306
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1919
+grupo 2 - filhos: 306
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1919
+grupo 2 - filhos: 306
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1919
+grupo 2 - filhos: 306
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1919
+grupo 2 - filhos: 306
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1919
+grupo 2 - filhos: 306
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1919
+grupo 2 - filhos: 306
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1919
+grupo 2 - filhos: 306
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1919
+grupo 2 - filhos: 306
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1919
+grupo 2 - filhos: 306
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1919
+grupo 2 - filhos: 306
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1919
+grupo 2 - filhos: 306
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1919
+grupo 2 - filhos: 306
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1919
+grupo 2 - filhos: 306
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1919
+grupo 2 - filhos: 306
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1919
+grupo 2 - filhos: 306
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1919
+grupo 2 - filhos: 306
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1919
+grupo 2 - filhos: 306
+grupo 3 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1919
+grupo 2 - filhos: 306
+grupo 3 - filhos: 0
+
+####  Iniciando calculo silhouette  ####
+sil_means:-1.0
+####  Iniciando calculo erro quadratico  ####
+erro_quad_medio 107.30236662299752

@@ -1,0 +1,74 @@
+grupo 0 - filhos: 330
+grupo 1 - filhos: 757
+grupo 2 - filhos: 561
+grupo 3 - filhos: 577
+
+grupo 0 - filhos: 365
+grupo 1 - filhos: 683
+grupo 2 - filhos: 516
+grupo 3 - filhos: 661
+
+grupo 0 - filhos: 491
+grupo 1 - filhos: 530
+grupo 2 - filhos: 433
+grupo 3 - filhos: 771
+
+grupo 0 - filhos: 521
+grupo 1 - filhos: 431
+grupo 2 - filhos: 437
+grupo 3 - filhos: 836
+
+grupo 0 - filhos: 556
+grupo 1 - filhos: 328
+grupo 2 - filhos: 464
+grupo 3 - filhos: 877
+
+grupo 0 - filhos: 577
+grupo 1 - filhos: 318
+grupo 2 - filhos: 413
+grupo 3 - filhos: 917
+
+grupo 0 - filhos: 585
+grupo 1 - filhos: 327
+grupo 2 - filhos: 389
+grupo 3 - filhos: 924
+
+grupo 0 - filhos: 586
+grupo 1 - filhos: 337
+grupo 2 - filhos: 375
+grupo 3 - filhos: 927
+
+grupo 0 - filhos: 587
+grupo 1 - filhos: 344
+grupo 2 - filhos: 371
+grupo 3 - filhos: 923
+
+grupo 0 - filhos: 586
+grupo 1 - filhos: 352
+grupo 2 - filhos: 368
+grupo 3 - filhos: 919
+
+grupo 0 - filhos: 585
+grupo 1 - filhos: 357
+grupo 2 - filhos: 368
+grupo 3 - filhos: 915
+
+grupo 0 - filhos: 585
+grupo 1 - filhos: 359
+grupo 2 - filhos: 368
+grupo 3 - filhos: 913
+
+grupo 0 - filhos: 585
+grupo 1 - filhos: 359
+grupo 2 - filhos: 368
+grupo 3 - filhos: 913
+
+grupo 0 - filhos: 585
+grupo 1 - filhos: 359
+grupo 2 - filhos: 368
+grupo 3 - filhos: 913
+
+####  Iniciando calculo silhouette  ####
+sil_means:0.038039470290274574
+####  Iniciando calculo erro quadratico  ####
+erro_quad_medio 0.544186451466527

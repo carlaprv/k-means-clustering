@@ -1,0 +1,184 @@
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2186
+grupo 2 - filhos: 0
+grupo 3 - filhos: 38
+grupo 4 - filhos: 1
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2110
+grupo 2 - filhos: 0
+grupo 3 - filhos: 115
+grupo 4 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2042
+grupo 2 - filhos: 0
+grupo 3 - filhos: 183
+grupo 4 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 2009
+grupo 2 - filhos: 0
+grupo 3 - filhos: 216
+grupo 4 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1986
+grupo 2 - filhos: 0
+grupo 3 - filhos: 239
+grupo 4 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1966
+grupo 2 - filhos: 0
+grupo 3 - filhos: 259
+grupo 4 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1955
+grupo 2 - filhos: 0
+grupo 3 - filhos: 270
+grupo 4 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1948
+grupo 2 - filhos: 0
+grupo 3 - filhos: 277
+grupo 4 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1942
+grupo 2 - filhos: 0
+grupo 3 - filhos: 283
+grupo 4 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1938
+grupo 2 - filhos: 0
+grupo 3 - filhos: 287
+grupo 4 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1936
+grupo 2 - filhos: 0
+grupo 3 - filhos: 289
+grupo 4 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1934
+grupo 2 - filhos: 0
+grupo 3 - filhos: 291
+grupo 4 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1933
+grupo 2 - filhos: 0
+grupo 3 - filhos: 292
+grupo 4 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1931
+grupo 2 - filhos: 0
+grupo 3 - filhos: 294
+grupo 4 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1931
+grupo 2 - filhos: 0
+grupo 3 - filhos: 294
+grupo 4 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1931
+grupo 2 - filhos: 0
+grupo 3 - filhos: 294
+grupo 4 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1931
+grupo 2 - filhos: 0
+grupo 3 - filhos: 294
+grupo 4 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1931
+grupo 2 - filhos: 0
+grupo 3 - filhos: 294
+grupo 4 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1931
+grupo 2 - filhos: 0
+grupo 3 - filhos: 294
+grupo 4 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1931
+grupo 2 - filhos: 0
+grupo 3 - filhos: 294
+grupo 4 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1931
+grupo 2 - filhos: 0
+grupo 3 - filhos: 294
+grupo 4 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1931
+grupo 2 - filhos: 0
+grupo 3 - filhos: 294
+grupo 4 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1931
+grupo 2 - filhos: 0
+grupo 3 - filhos: 294
+grupo 4 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1931
+grupo 2 - filhos: 0
+grupo 3 - filhos: 294
+grupo 4 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1931
+grupo 2 - filhos: 0
+grupo 3 - filhos: 294
+grupo 4 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1931
+grupo 2 - filhos: 0
+grupo 3 - filhos: 294
+grupo 4 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1931
+grupo 2 - filhos: 0
+grupo 3 - filhos: 294
+grupo 4 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1931
+grupo 2 - filhos: 0
+grupo 3 - filhos: 294
+grupo 4 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1931
+grupo 2 - filhos: 0
+grupo 3 - filhos: 294
+grupo 4 - filhos: 0
+
+grupo 0 - filhos: 0
+grupo 1 - filhos: 1931
+grupo 2 - filhos: 0
+grupo 3 - filhos: 294
+grupo 4 - filhos: 0
+
+####  Iniciando calculo silhouette  ####
+sil_means:-1.0
+####  Iniciando calculo erro quadratico  ####
+erro_quad_medio 102.83239707301561

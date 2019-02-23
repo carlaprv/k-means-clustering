@@ -1,0 +1,154 @@
+grupo 0 - filhos: 6
+grupo 1 - filhos: 169
+grupo 2 - filhos: 0
+grupo 3 - filhos: 2050
+
+grupo 0 - filhos: 5
+grupo 1 - filhos: 261
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1959
+
+grupo 0 - filhos: 5
+grupo 1 - filhos: 293
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1927
+
+grupo 0 - filhos: 5
+grupo 1 - filhos: 312
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1908
+
+grupo 0 - filhos: 5
+grupo 1 - filhos: 321
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1899
+
+grupo 0 - filhos: 5
+grupo 1 - filhos: 327
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1893
+
+grupo 0 - filhos: 5
+grupo 1 - filhos: 329
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1891
+
+grupo 0 - filhos: 5
+grupo 1 - filhos: 333
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1887
+
+grupo 0 - filhos: 5
+grupo 1 - filhos: 346
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1874
+
+grupo 0 - filhos: 5
+grupo 1 - filhos: 353
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1867
+
+grupo 0 - filhos: 5
+grupo 1 - filhos: 360
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1860
+
+grupo 0 - filhos: 5
+grupo 1 - filhos: 368
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1852
+
+grupo 0 - filhos: 5
+grupo 1 - filhos: 371
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1849
+
+grupo 0 - filhos: 5
+grupo 1 - filhos: 376
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1844
+
+grupo 0 - filhos: 5
+grupo 1 - filhos: 385
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1835
+
+grupo 0 - filhos: 5
+grupo 1 - filhos: 392
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1828
+
+grupo 0 - filhos: 5
+grupo 1 - filhos: 395
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1825
+
+grupo 0 - filhos: 5
+grupo 1 - filhos: 396
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1824
+
+grupo 0 - filhos: 5
+grupo 1 - filhos: 396
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1824
+
+grupo 0 - filhos: 5
+grupo 1 - filhos: 396
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1824
+
+grupo 0 - filhos: 5
+grupo 1 - filhos: 396
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1824
+
+grupo 0 - filhos: 5
+grupo 1 - filhos: 396
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1824
+
+grupo 0 - filhos: 5
+grupo 1 - filhos: 396
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1824
+
+grupo 0 - filhos: 5
+grupo 1 - filhos: 396
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1824
+
+grupo 0 - filhos: 5
+grupo 1 - filhos: 396
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1824
+
+grupo 0 - filhos: 5
+grupo 1 - filhos: 396
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1824
+
+grupo 0 - filhos: 5
+grupo 1 - filhos: 396
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1824
+
+grupo 0 - filhos: 5
+grupo 1 - filhos: 396
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1824
+
+grupo 0 - filhos: 5
+grupo 1 - filhos: 396
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1824
+
+grupo 0 - filhos: 5
+grupo 1 - filhos: 396
+grupo 2 - filhos: 0
+grupo 3 - filhos: 1824
+
+####  Iniciando calculo silhouette  ####
+sil_means:-1.0
+####  Iniciando calculo erro quadratico  ####
+erro_quad_medio 277.7937759021323
